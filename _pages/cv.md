@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+#parte de baixo não irá aparecer pois add um arquivo com meu cv
 
 {% include base_path %}
 
