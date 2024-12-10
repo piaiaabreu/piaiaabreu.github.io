@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Network illustration](/images/pic.png){: .aling-rightwidth="50px"}
+![Network illustration](/images/pic.png){: .aling-rightwidth="500px"}
 
 I'm a lalala
 
