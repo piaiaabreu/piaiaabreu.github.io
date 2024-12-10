@@ -18,9 +18,8 @@ redirect_from:
     <img src="/images/network_1.png" alt="Network illustration" style="width: 400px; border-radius: 10px;">
   </div>
 </div>
-    <p>
-      My interests lie at the intersection of classical liberal economic thought, systemic resilience, and the implications of institutional design on economics outcomes. Currently, I dedicate my efforts to developing innovative tools and frameworks that address pressing economic and political issues, striving to bring clarity and actionable insights to complex problems.
-    </p>
+
+My interests lie at the intersection of classical liberal economic thought, systemic resilience, and the implications of institutional design on economics outcomes. Currently, I dedicate my efforts to developing innovative tools and frameworks that address pressing economic and political issues, striving to bring clarity and actionable insights to complex problems.
 
 Getting started
 ======
