@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/pic.png){: .aling-rightwidth="300px"}
+![Network illustration](/images/pic.png){: .aling-rightwidth="300px"}
 
 I'm a lalala
 
