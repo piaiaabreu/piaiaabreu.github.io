@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile_pic1.jpg"
   name             : "Mariana Piaia Abreu"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her"  
+  bio              : "PhD in Economics"
   location         : "São Paulo, Brazil"
   employer         : #"Red Brick University"
   uri              : # URL
