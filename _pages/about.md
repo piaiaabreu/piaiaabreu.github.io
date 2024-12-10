@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+fivicon:"/images/network_1.png"
 author_profile: true
 redirect_from: 
   - /about/
