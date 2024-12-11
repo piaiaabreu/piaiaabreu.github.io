@@ -15,7 +15,7 @@ redirect_from:
 
   </div>
   <div>
-    <img src="/images/network_2.png" alt="Network illustration" style="width: 400px; border-radius: 10px;">
+    <img src="/images/network_2.png" alt="Network illustration" style="width: 400px; border-radius: 10px; transform: rotate(30deg);">
   </div>
 </div>
 
