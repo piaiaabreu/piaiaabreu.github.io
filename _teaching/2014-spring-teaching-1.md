@@ -5,7 +5,10 @@ type: "Undergraduate Course"
 permalink:
 venue: "Universidade Presbiteriana Mackenzie, Social and Applied Sciences Center"
 date: 2018-08 - 2022-07
-location: "São Paulo, Brazil"
+location: "São Paulo, Brazil"    
+---
+
+
 
 Economics
 ------
@@ -24,8 +27,3 @@ Macroeconomia e Conjuntura Econômica, agosto 2018 - julho 2022
 Princípios de Empreendedorismo, agosto 2018 - dezembro 2022.
 Projetos Empreendedores, agosto 2018 - dezembro 2022. 
 Ambiente de Negócios e Indicadores de Livre Mercado, agosto 2018 - dezembro 2022. 
-    
----
-
-
-
