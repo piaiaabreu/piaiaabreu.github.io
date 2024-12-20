@@ -9,29 +9,34 @@ redirect_from:
 
 ## Ibmec-SP
 
-* Macroeconomia Dinâmica, agosto 2021 - julho 2024.
-* Princípios de Macroeconomia e Contabilidade Social, fevereiro 2023 - agosto 2023.
-* Macroeconomia Aberta, fevereiro 2023 - julho 2024.
-* Pensamento Econômico de Livre Mercado, fevereiro 2023 - julho 2023.
-* Macroeconomia I, fevereiro 2024 - julho 2024.
+* Macroeconomia Dinâmica (ago. 2021 - jul. 2024)
+* Princípios de Macroeconomia e Contabilidade Social (fev. 2023 - ago. 2023)
+* Macroeconomia Aberta (fev. 2023 - jul. 2024)
+* Pensamento Econômico de Livre Mercado (fev. 2023 - jul. 2023)
+* Macroeconomia I (fev. 2024 - jul. 2024)
 
 ## Universidade Presbiteriana Mackenzie
 
-* Macroeconomia e Conjuntura Econômica, agosto 2018 - julho 2022.
-* Princípios de Empreendedorismo, agosto 2018 - dezembro 2022.
-* Projetos Empreendedores, agosto 2018 - dezembro 2022.
-* Ambiente de Negócios e Indicadores de Livre Mercado, agosto 2018 - dezembro 2022.
-* Princípios de Macroeconomia, agosto 2018 - julho 2022.
-* Análise Econômica, agosto 2018 - dezembro 2018.
-* Microeconomia III, fevereiro 2019 - dezembro 2019.
-* Macroeconomia Aberta, fevereiro 2019 - julho 2022.
-* Políticas Econômicas, fevereiro 2020 - julho 2022.
-* Macroeconomia II, fevereiro 2020 - dezembro 2021.
-* Tópicos Especiais em Economia: Teoria de redes aplicada à economia, julho 2020 - dezembro 2022.
-*  Macroeconomia I, fevereiro 2022 - julho 2022.
+| Disciplinas                           | Curso         | Período              |
+| --------                              | ------        | ------               |
+| Macroeconomia e Conjuntura Econômica  | Administração | ago. 2018 - jul. 2022|
+| Projetos Empreendedores               | Administração | ago. 2018 - dez. 2018|
+| Princípios Empreendedores             | Administração | ago. 2018 - dez. 2018|
+| Ambiente de Negócios e Indicadores de Livre Mercado   |Administração | ago. 2018 - dez. 2018|
+| Análise Econômica                     | Economia | ago. 2018 - dez. 2018|
+| Microeconomia III                     | Economia | fev. 2019 - dez. 2019|
+| Políticas Econômicas                  | Economia | fev. 2019 - dez. 2019|
+| Macroeconomia Aberta                  | Economia | fev. 2019 - jul. 2022|
+| Macroeconomia II                      | Economia | fev. 2020 - dez. 2021|
+| Tópicos Especiais em Economia: Teoria de redes aplicada à economia | Economia | jul. 2020 - dez. 2020|
+| Macroeconomia I                       | Economia | fev. 2022 - jul. 2022|
+
 
 ## Instituto Mises Brasil - Pós-Graduação em Escola Austríaca
 
-* Processos de Mercado, fevereiro 2024 - julho 2024
-* Dinâmica do Intervencionismo, fevereiro 2024 - julho 2024.
-* Introdução à Escola Austríaca, fevereiro 2024 - julho 2024.
+| Disciplinas                    | Período   |
+| --------                       | ------    |
+| Processos de Mercado           | 2019, 2020|
+| Dinâmica do Intervencionismo   | 2016      |
+| Introdução à Escola Austríaca  | 2016      |
+
