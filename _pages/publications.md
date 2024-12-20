@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<div style="font-size: 8px; line-height: 1.5;">
+<div style="font-size: 10px; line-height: 1.5;">
 
 [CALAIS, P.; MAZZONI, J. F. R.; ABREU, M. P. Contemporary Austrian School as a research program: What can bibliometrics teach us?. The Review of Austrian Economics, p. 1-30, 2024.](https://doi.org/10.1007/s11138-024-00657-z)
 
