@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
-  <div style="max-width: 70%;">
+  <div style="max-width: 50%;">
     <p>
       I am a researcher focused on understanding economics as a complex system. My work bridges theory and practice, using advanced methodologies such as network analysis to explore challenges in economic systems and policy-making. Beyond traditional microfounded approaches, I investigate macroeconomics through the lens of complexity, emphasizing the dynamic interplay of agents, institutions, and networks in shaping economic outcomes.
     </p>
