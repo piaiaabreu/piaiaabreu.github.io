@@ -26,7 +26,7 @@ redirect_from:
 
 > _Doctoral Dissertation_. [A complexidade da estrutura produtiva e financeira: uma análise de redes para o Brasil](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2018)_Doctoral%20Dissertation.pdf). June 2018. Department of Economics - Universidade Federal Fluminense (Advisor: Renata R. Del-Vecchio). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
-> _Masters Thesis_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2014)_Master%20Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
+> _Masters Thesis_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2014)_Masters%20Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
 > _Bachelor Thesis_. [Metodologia Brasileira dos Atos de Concentração Horizontal: a perspectiva da Escola Austríaca vs. o Mainstream](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2011)_Bachelor%20Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
