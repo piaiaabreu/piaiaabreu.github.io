@@ -24,8 +24,7 @@ redirect_from:
 
 > [_Review_ - Meseguer, C. M. La Teoría Evolutiva de las Instituciones: La Perspectiva Austriaca](https://doi.org/10.30800/mises.2013.v1.237). MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 1 (1), p. 292-296, 2012.
 
-
-> _DOCTORAL DISSERTATION_. [A complexidade da estrutura produtiva e financeira: uma análise de redes para o Brasil](). June 2018. Department of Economics - Universidade Federal Fluminense (Advisor: Renata R. Del-Vecchio). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
+> _DOCTORAL DISSERTATION_. [A complexidade da estrutura produtiva e financeira: uma análise de redes para o Brasil](files/PIAIA%20ABREU%20(2011)_Bachelor%20Thesis.pdf). June 2018. Department of Economics - Universidade Federal Fluminense (Advisor: Renata R. Del-Vecchio). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
 > _MASTER THESIS_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
