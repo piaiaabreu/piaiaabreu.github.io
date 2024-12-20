@@ -15,7 +15,19 @@ redirect_from:
 
 > PIAIA ABREU, M.; GRASSI, R.; DEL-VECCHIO, R. R. _[Structure of control in financial networks: An application to the Brazilian stock market](https://doi.org/10.1016/j.physa.2019.01.084)_. Physical A-Statistical Mechanics and its Applications, v. 522, p. 302-314, 2019.
 
-> ABREU, M. P. _[Preface: MISES, L. Sobre moeda e inflação: Uma síntese de diversas palestras](https://www.amazon.com.br/Sobre-moeda-infla%C3%A7%C3%A3o-diversas-palestras/dp/8593751636)_. São Paulo: LVM, 2018.
+
+
+## Others
+> [_Presentation_ - Hayek, F. A. Economia e Conhecimento}(https://www.amazon.com.br/Economia-conhecimento-Livro-bolso/dp/6550520053). São Paulo: LvM Editora, 2019.
+
+> [_Preface_: MISES, L. Sobre moeda e inflação: Uma síntese de diversas palestras](https://www.amazon.com.br/Sobre-moeda-infla%C3%A7%C3%A3o-diversas-palestras/dp/8593751636). São Paulo: LVM, 2018.
+
+> [_Review_ - Meseguer, C. M. La Teoría Evolutiva de las Instituciones: La Perspectiva Austriaca](https://doi.org/10.30800/mises.2013.v1.237). MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 1 (1), p. 292-296, 2012.
+
+
+> _DOCTORAL DISSERTATION_. [A complexidade da estrutura produtiva e financeira: uma análise de redes para o Brasil](). June 2018. Department of Economics - Universidade Federal Fluminense (Advisor: Renata R. Del-Vecchio). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
+
+> _MASTER THESIS_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
 
 ## Projects
@@ -34,4 +46,5 @@ Complex systems are reluctant to be expressed in closed analytic forms. Such sys
 
 ### Ownership and control: overview and historical analysis of networks in the Brazilian capital market
 This research seeks, through ownership and control relationships, to analyze the evolution of the Brazilian capital market based on network theory. It assesses the degree to which government institutions are directly or indirectly involved in the control of private companies and how government initiatives can impact the ownership and control structures of Brazilian companies.
+
 
