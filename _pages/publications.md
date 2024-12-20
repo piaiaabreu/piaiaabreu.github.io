@@ -28,7 +28,7 @@ redirect_from:
 
 > _Masters Thesis_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](piaiaabreu.github.io/files/PIAIA-ABREU-(2014)_Masters-Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
-> _Bachelor Thesis_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](piaiaabreu.github.io/files/PIAIA-ABREU-(2011)_Bachelor-Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
+> _Bachelor Thesis_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira]([piaiaabreu.github.io/files/PIAIA-ABREU-(2011)_Bachelor-Thesis.pdf](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2011)_Bachelor%20Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
 
 ## Projects
