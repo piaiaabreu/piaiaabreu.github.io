@@ -18,17 +18,17 @@ redirect_from:
 
 
 ## Others
-> [_Presentation_ - Hayek, F. A. Economia e Conhecimento}(https://www.amazon.com.br/Economia-conhecimento-Livro-bolso/dp/6550520053). São Paulo: LvM Editora, 2019.
+> [_Presentation_ - Hayek, F. A. Economia e Conhecimento](https://www.amazon.com.br/Economia-conhecimento-Livro-bolso/dp/6550520053). São Paulo: LvM Editora, 2019.
 
 > [_Preface_: MISES, L. Sobre moeda e inflação: Uma síntese de diversas palestras](https://www.amazon.com.br/Sobre-moeda-infla%C3%A7%C3%A3o-diversas-palestras/dp/8593751636). São Paulo: LVM, 2018.
 
 > [_Review_ - Meseguer, C. M. La Teoría Evolutiva de las Instituciones: La Perspectiva Austriaca](https://doi.org/10.30800/mises.2013.v1.237). MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 1 (1), p. 292-296, 2012.
 
-> _DOCTORAL DISSERTATION_. [A complexidade da estrutura produtiva e financeira: uma análise de redes para o Brasil](/files/PIAIA ABREU (2018)_Doctoral Dissertation.pdf). June 2018. Department of Economics - Universidade Federal Fluminense (Advisor: Renata R. Del-Vecchio). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
+> _DOCTORAL DISSERTATION_. [A complexidade da estrutura produtiva e financeira: uma análise de redes para o Brasil](files/PIAIA ABREU (2018)_Doctoral Dissertation.pdf). June 2018. Department of Economics - Universidade Federal Fluminense (Advisor: Renata R. Del-Vecchio). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
-> _MASTER THESIS_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](/files/PIAIA ABREU (2014)_Master Dissertation.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
+> _MASTER THESIS_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](files/PIAIA ABREU (2014)_Master Dissertation.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
-> _BACHELOR THESIS_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](/files/PIAIA ABREU (2011)_Bachelor Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
+> _BACHELOR THESIS_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](files/PIAIA ABREU (2011)_Bachelor Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
 
 ## Projects
