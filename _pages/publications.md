@@ -15,3 +15,4 @@ CALAIS, P.; MAZZONI, J. F. R.; ABREU, M. P. [Contemporary Austrian School as a r
 [PIAIA ABREU, M.; GRASSI, R.; DEL-VECCHIO, R. R. Structure of control in financial networks: An application to the Brazilian stock market. Physical A-Statistical Mechanics and its Applications, v. 522, p. 302-314, 2019.](https://doi.org/10.1016/j.physa.2019.01.084)
 
 [ABREU, M. P. Preface: MISES, L. Sobre moeda e inflação: Uma síntese de diversas palestras. São Paulo: LVM, 2018.](https://www.amazon.com.br/Sobre-moeda-infla%C3%A7%C3%A3o-diversas-palestras/dp/8593751636)
+
