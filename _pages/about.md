@@ -21,9 +21,3 @@ redirect_from:
 </div>
 
 My interests lie at the intersection of classical liberal economic thought, systemic resilience, and the implications of institutional design on economics outcomes. Currently, I dedicate my efforts to developing innovative tools and frameworks that address pressing economic and political issues, striving to bring clarity and actionable insights to complex problems.
-
-
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
