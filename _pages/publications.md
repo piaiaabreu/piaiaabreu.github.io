@@ -26,7 +26,7 @@ redirect_from:
 
 > _Doctoral Dissertation_. [A complexidade da estrutura produtiva e financeira: uma análise de redes para o Brasil](files/PIAIA-ABREU-(2018)_Doctoral-Dissertation.pdf). June 2018. Department of Economics - Universidade Federal Fluminense (Advisor: Renata R. Del-Vecchio). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
-> _Masters Dissertation_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](files/PIAIA-ABREU-(2014)_Masters-Dissertation.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
+> _Masters Thesis_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](files/PIAIA-ABREU-(2014)_Masters-Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
 > _Bachelor Thesis_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](files/PIAIA-ABREU-(2011)_Bachelor-Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
