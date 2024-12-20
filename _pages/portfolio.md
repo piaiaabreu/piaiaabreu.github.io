@@ -1,7 +1,8 @@
 ---
-layout: archive
 title: "Consulting"
-permalink: /portfolio/
+permalink:
 author_profile: true
+redirect_from: 
+  - /portfolio/
+  - /portfolio/.html
 ---
-
