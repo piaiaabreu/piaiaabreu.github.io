@@ -23,7 +23,7 @@ body {
 
 .ai {
   font-family: 'Academicons';
-  font-weight: 300;
+  font-weight: 400;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   display: inline-block;
@@ -42,7 +42,7 @@ body {
   font-size: 0.7em;
 }
 .ai-lg {
-  font-size: 0.9em;
+  font-size: 1.0em;
   line-height: 0.75em;
   vertical-align: -0.0667em;
 }
