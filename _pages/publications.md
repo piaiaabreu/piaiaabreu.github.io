@@ -7,7 +7,6 @@ redirect_from:
   - /publications.html
 ---
 
-
 > CALAIS, P.; MAZZONI, J. F. R.; ABREU, M. P. [Contemporary Austrian School as a research program: What can bibliometrics teach us?](https://doi.org/10.1007/s11138-024-00657-z). The Review of Austrian Economics, p. 1-30, 2024.
 
 > PIAIA ABREU, M.; DEL-VECCHIO, R. R.; GRASSI, R. [Analysis of the productive structure applying networks: the Brazilian case](https://doi.org/10.1016/j.strueco.2020.03.005). Structural Change and Economic Dynamics, v. 53, p. 281291, 2020.
