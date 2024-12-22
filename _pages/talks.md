@@ -1,0 +1,10 @@
+---
+title: "Talks"
+permalink:
+author_profile: true
+redirect_from: 
+  - /talks/
+  - /talks.html
+---
+
+### Ibmec-SP
