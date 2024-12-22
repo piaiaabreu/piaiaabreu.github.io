@@ -43,8 +43,8 @@ redirect_from:
 
 * Livres Cast
   * _A jornada Acadêmica no movimento liberal_, August 2, 2022, 
-    <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw)" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
-    <a href="][https://youtube.com/your-channel-link](https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D)" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="[https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw]" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
+    <a href="][https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D]" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Podcast Fábio Ostermann
   * _Ep. #13 - Participação Feminina no Movimento Liberal_, October 30, 2020, 
