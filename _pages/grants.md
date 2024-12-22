@@ -1,5 +1,5 @@
 ---
-title: "Grants, Awards and Fellowships"
+title: "Grants, Awards, and Fellowships"
 permalink:
 author_profile: true
 redirect_from: 
