@@ -7,17 +7,20 @@ redirect_from:
   - /research.html
 ---
 
-## Publications
-
-> CALAIS, P.; MAZZONI, J. F. R.; ABREU, M. P. _[Contemporary Austrian School as a research program: What can bibliometrics teach us?](https://doi.org/10.1007/s11138-024-00657-z)_. The Review of Austrian Economics, p. 1-30, 2024.
+<details ## Academic Publications>
+  <summary>Open by default</summary>
+  
+ > CALAIS, P.; MAZZONI, J. F. R.; ABREU, M. P. _[Contemporary Austrian School as a research program: What can bibliometrics teach us?](https://doi.org/10.1007/s11138-024-00657-z)_. The Review of Austrian Economics, p. 1-30, 2024.
  
 > PIAIA ABREU, M.; DEL-VECCHIO, R. R.; GRASSI, R. _[Analysis of the productive structure applying networks: the Brazilian case](https://doi.org/10.1016/j.strueco.2020.03.005)_. Structural Change and Economic Dynamics, v. 53, p. 281291, 2020.
 
 > PIAIA ABREU, M.; GRASSI, R.; DEL-VECCHIO, R. R. _[Structure of control in financial networks: An application to the Brazilian stock market](https://doi.org/10.1016/j.physa.2019.01.084)_. Physical A-Statistical Mechanics and its Applications, v. 522, p. 302-314, 2019.
+> 
+</details>
 
 
+## Other Publications
 
-## Others
 > [_Presentation_ - Hayek, F. A. Economia e Conhecimento](https://www.amazon.com.br/Economia-conhecimento-Livro-bolso/dp/6550520053). São Paulo: LvM Editora, 2019.
 
 > [_Preface_: MISES, L. Sobre moeda e inflação: Uma síntese de diversas palestras](https://www.amazon.com.br/Sobre-moeda-infla%C3%A7%C3%A3o-diversas-palestras/dp/8593751636). São Paulo: LVM, 2018.
@@ -31,7 +34,7 @@ redirect_from:
 > _Bachelor Thesis_. [Metodologia Brasileira dos Atos de Concentração Horizontal: a perspectiva da Escola Austríaca vs. o Mainstream](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2011)_Bachelor%20Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
 
-## Projects
+## Work in Progress
 
 ### Workflows and Roadblocks: Gender Differences in Career Mobility and Occupational Networks in Brazil
 How do gendered workflows and roadblocks shape the distribution of work in Brazil’s labor market, and what does this reveal about career mobility and opportunities for job transitions? This research investigates the network structure of occupational mobility, using RAIS to uncover how gender differences influence pathways between occupations. This study sheds light on structural inequalities in the labor market, deepens our understanding of gendered mobility challenges, and provides insights into targeted policies to foster a more inclusive, equitable, and dynamic career landscape.
