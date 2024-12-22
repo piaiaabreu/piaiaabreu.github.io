@@ -1,4 +1,4 @@
----
+  ---
 title: "Talks"
 permalink:
 author_profile: true
@@ -36,5 +36,29 @@ redirect_from:
 
 > ## Other Talks
 
+* Livres Cast: _A jornada Acadêmica no movimento liberal_
+  * August 2, 2022
+<ul>
+  <li>
+    <a href="https://your-podcast-link.com" target="_blank" title="Listen to the Podcast">
+      <i class="fas fa-podcast"></i> Podcast
+    </a>
+  </li>
+  <li>
+    <a href="https://youtube.com/your-channel-link" target="_blank" title="Visit YouTube Channel">
+      <i class="fab fa-youtube"></i> YouTube
+    </a>
+  </li>
+</ul>
+
+
+
+
 
 > ## Interviews and Podcasts
+
+
+
+
+
+
