@@ -18,7 +18,7 @@ I am a researcher focused on understanding economics as a complex system. My wor
   </div>
   <div>
    <img src="/images/network_2.png" alt="Network illustration" 
-     style="width: 300px; border-radius: 10px; !important;">
+     style="width: 250px; border-radius: 10px; !important;">
   </div>
 </div>
 
