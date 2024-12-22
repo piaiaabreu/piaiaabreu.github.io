@@ -9,12 +9,10 @@ redirect_from:
 
 > ## Academic Talks
 
-* **[Association of Private Enterprise Education (APEE) 48th Meeting](https://apee.org/past-programs/)**
-  * Apr. 7-9, 2024, Las Vegas, Nevada, United States.
+* **[Association of Private Enterprise Education (APEE) 48th Meeting](https://apee.org/past-programs/)**, Apr. 7-9, 2024, Las Vegas, Nevada, United States.
   * _Political Interference and Ownership Networks State-Owned and Mixed-Owned Enterprises in the Brazilian Stock Market_ (slides).
 
-* **[VII Latin American Society for the History of Economic Thought (ALAHPE) Meeting](https://alahpe.org/wp-content/uploads/2021/01/Programa-ALAHPE-Curitiba.pdf)**
-  * Nov. 20-22, 2019, Curitiba, Paraná, Brazil.
+* **[VII Latin American Society for the History of Economic Thought (ALAHPE) Meeting](https://alahpe.org/wp-content/uploads/2021/01/Programa-ALAHPE-Curitiba.pdf)**, Nov. 20-22, 2019, Curitiba, Paraná, Brazil.
   * _Estrutura do capital e complexidade: Escola Austríaca em evolução_ (slides).
 
 * **[41st Annual Meeting of the Association for Mathematics Applied · to Social and Economic Sciences (AMASES)](https://www.amases.org/41st-annual-meeting-of-the-italian-association-for-mathematics-applied-to-economic-and-social-sciences-amases/)**
