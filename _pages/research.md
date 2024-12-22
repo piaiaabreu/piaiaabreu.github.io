@@ -55,4 +55,10 @@ Complex systems are reluctant to be expressed in closed analytic forms. Such sys
 
 This research seeks, through ownership and control relationships, to analyze the evolution of the Brazilian capital market based on network theory. It assesses the degree to which government institutions are directly or indirectly involved in the control of private companies and how government initiatives can impact the ownership and control structures of Brazilian companies.
 
+## Referee Service
+
+> MISES: Revista Interdisciplinar de Filosofia, Direito e Economia Reviewer and Editorial Board.
+> Revista Análise Econômica – Universidade Federal do Rio Grande do Sul (UFRGS).
+> Complexity – Wiley, Hindawi.
+
 
