@@ -39,16 +39,20 @@ redirect_from:
 
 How do gendered workflows and roadblocks shape the distribution of work in Brazil’s labor market, and what does this reveal about career mobility and opportunities for job transitions? This research investigates the network structure of occupational mobility, using RAIS to uncover how gender differences influence pathways between occupations. This study sheds light on structural inequalities in the labor market, deepens our understanding of gendered mobility challenges, and provides insights into targeted policies to foster a more inclusive, equitable, and dynamic career landscape.
 
-### Analysis of Political Behavior in Brazil using Network Theory: Campaign Donations, Pattern of Voting and Behavior of Representatives
+> Analysis of Political Behavior in Brazil using Network Theory: Campaign Donations, Pattern of Voting and Behavior of Representatives
+
 Using network theory, we analyze: (i) the structure of donation in electoral campaigns (considering changes in electoral legislation); (ii) the pattern of votes for candidates; (iii) how elected politicians behave in their mandate, analyzing votes in plenary.
 
-### Modifications of the Brazilian productive structure: the economic and the political cycle
+> Modifications of the Brazilian productive structure: the economic and the political cycle
+
 The complexity of the production structure and the deindustrialization process are recurrent themes in Brazil. The objective is to carry out an analysis not only of the sectoral participation in the GDP, but as an interrelated structure, through the theory of networks. This research also takes into considerations the effects of political cycles.
 
-### Complexity and the Structure of Capital
+> Complexity and the Structure of Capital
+
 Complex systems are reluctant to be expressed in closed analytic forms. Such systems can be more easily described by their interaction structure. Thus, the theoretical framework of complexity theory and capital theory in complex network models is used for this research.
 
-### Ownership and control: overview and historical analysis of networks in the Brazilian capital market
+> Ownership and control: overview and historical analysis of networks in the Brazilian capital market
+
 This research seeks, through ownership and control relationships, to analyze the evolution of the Brazilian capital market based on network theory. It assesses the degree to which government institutions are directly or indirectly involved in the control of private companies and how government initiatives can impact the ownership and control structures of Brazilian companies.
 
 
