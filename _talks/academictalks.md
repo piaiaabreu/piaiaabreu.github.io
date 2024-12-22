@@ -1,8 +1,8 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Academic Talks"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
+type: "Academic Talks"
+permalink: /talks/academictalks
 venue: "Testing Institute of America 2014 Annual Conference"
 date: 2014-03-01
 location: "Los Angeles, CA"
