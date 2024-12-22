@@ -7,16 +7,13 @@ redirect_from:
   - /research.html
 ---
 
-<details Academic Publications>
-   <summary style="font-size: 2.0em; font-weight: bold; margin-bottom: 15px;">Academic Publications</summary>
-  
- > CALAIS, P.; MAZZONI, J. F. R.; ABREU, M. P. _[Contemporary Austrian School as a research program: What can bibliometrics teach us?](https://doi.org/10.1007/s11138-024-00657-z)_. The Review of Austrian Economics, p. 1-30, 2024.
+## Academic Publications
+
+> CALAIS, P.; MAZZONI, J. F. R.; ABREU, M. P. _[Contemporary Austrian School as a research program: What can bibliometrics teach us?](https://doi.org/10.1007/s11138-024-00657-z)_. The Review of Austrian Economics, p. 1-30, 2024.
  
 > PIAIA ABREU, M.; DEL-VECCHIO, R. R.; GRASSI, R. _[Analysis of the productive structure applying networks: the Brazilian case](https://doi.org/10.1016/j.strueco.2020.03.005)_. Structural Change and Economic Dynamics, v. 53, p. 281291, 2020.
 
 > PIAIA ABREU, M.; GRASSI, R.; DEL-VECCHIO, R. R. _[Structure of control in financial networks: An application to the Brazilian stock market](https://doi.org/10.1016/j.physa.2019.01.084)_. Physical A-Statistical Mechanics and its Applications, v. 522, p. 302-314, 2019.
-> 
-</details>
 
 
 ## Other Publications
