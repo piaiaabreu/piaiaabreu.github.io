@@ -6,13 +6,13 @@
 
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Consulting"
-    url: /portfolio/
+    url: /consulting/
 
   - title: "Talks"
     url: /talks/    
