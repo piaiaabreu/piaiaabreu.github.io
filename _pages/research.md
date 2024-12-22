@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <details ## Academic Publications>
-  <summary>Open by default</summary>
+  <summary>## Academic Publications</summary>
   
  > CALAIS, P.; MAZZONI, J. F. R.; ABREU, M. P. _[Contemporary Austrian School as a research program: What can bibliometrics teach us?](https://doi.org/10.1007/s11138-024-00657-z)_. The Review of Austrian Economics, p. 1-30, 2024.
  
