@@ -13,16 +13,11 @@ redirect_from:
   <summary> </summary>
   
 ### 49th APEE Meeting
-
 </details>
+
 
 > ## Other Talks
 
 
 > ## Interviews and Podcasts
 
-> <details open><summary> LALA </summary>
-  
-### 49th APEE Meeting
-
-</details>
