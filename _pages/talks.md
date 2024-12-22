@@ -16,12 +16,13 @@ redirect_from:
 
 > ## Interviews and Podcasts
 
-<details open>
-  <summary style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;"> </summary>
+> <details open>
+  <summary style="font-size: 1.25em; font-weight: bold; margin-bottom: 10px;">Interviews and Podcasts</summary>
  
   * Lala
 
   * Lala
 
   * Lala
+    
 </details>
