@@ -9,13 +9,13 @@ redirect_from:
 
 > ## Academic Talks
 
+#### APEE 48th Meeting
+
+    * April 7-9, 2024, Las Vegas, Nevada, United States
+    * _Political Interference and Ownership Networks State-Owned and Mixed-Owned Enterprises in the Brazilian Stock Market_
 
 
 > ## Other Talks
 
 
-> ## Interviews and Podcasts <details open> <summary style="font-size: 1.25em; font-weight: bold; margin-bottom: 10px;"></summary>
-  * Lala
-  * Lala
-  * Lala
-</details>
+> ## Interviews and Podcasts
