@@ -7,6 +7,12 @@ redirect_from:
   - /talks.html
 ---
 
+<details open>
+  <summary style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">Academic Talks</summary>
+  This section is open by default thanks to open in the &lt;details open&gt; tag!
+</details>
+
+
 
 ## Academic Talks
 
