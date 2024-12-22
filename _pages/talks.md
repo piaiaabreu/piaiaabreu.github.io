@@ -14,12 +14,8 @@ redirect_from:
 > ## Other Talks
 
 
-> ## Interviews and Podcasts <details open> <summary style="font-size: 1.25em; font-weight: bold; margin-bottom: 10px;">Interviews and Podcasts</summary>
- 
+> ## Interviews and Podcasts <details open> <summary style="font-size: 1.25em; font-weight: bold; margin-bottom: 10px;"></summary>
   * Lala
-
   * Lala
-
   * Lala
-    
 </details>
