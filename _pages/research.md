@@ -35,7 +35,8 @@ redirect_from:
 
 ## Work in Progress
 
-### Workflows and Roadblocks: Gender Differences in Career Mobility and Occupational Networks in Brazil
+> Workflows and Roadblocks: Gender Differences in Career Mobility and Occupational Networks in Brazil
+
 How do gendered workflows and roadblocks shape the distribution of work in Brazil’s labor market, and what does this reveal about career mobility and opportunities for job transitions? This research investigates the network structure of occupational mobility, using RAIS to uncover how gender differences influence pathways between occupations. This study sheds light on structural inequalities in the labor market, deepens our understanding of gendered mobility challenges, and provides insights into targeted policies to foster a more inclusive, equitable, and dynamic career landscape.
 
 ### Analysis of Political Behavior in Brazil using Network Theory: Campaign Donations, Pattern of Voting and Behavior of Representatives
