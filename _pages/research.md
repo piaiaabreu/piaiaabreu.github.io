@@ -3,8 +3,8 @@ title: "Research"
 permalink:
 author_profile: true
 redirect_from: 
-  - /publications/
-  - /publications.html
+  - /research/
+  - /research.html
 ---
 
 ## Publications
