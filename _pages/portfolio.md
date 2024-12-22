@@ -6,3 +6,5 @@ redirect_from:
   - /consulting/
   - /consulting/.html
 ---
+
+lalalalala
