@@ -37,8 +37,11 @@ redirect_from:
 ## Other Talks
 
 
+* Mises Brasil
+  * _VI Conferência de Escola Austríaca_, September, 25, 2019,
+    <a href="][https://youtube.com/your-channel-link](https://youtu.be/OC3sg9GwMeM?si=HOGZ62N0lPS_aZ_2)" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
-
+    
 > ## Interviews and Podcasts
 
 * Livres Cast
@@ -51,8 +54,6 @@ redirect_from:
     <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/3m2ZLAeeOMuILSWuhszoIb?si=cHxjAqDfSXOOJgbaJ-zpnw)" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
 
 * Mises Brasil
-  * _VI Conferência de Escola Austríaca_, September, 25, 2019,
-    <a href="][https://youtube.com/your-channel-link](https://youtu.be/OC3sg9GwMeM?si=HOGZ62N0lPS_aZ_2)" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _187 Podcast_, September 4, 2015, 
     <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw)" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
   * _62 Podcast_, March 8, 2013, 
