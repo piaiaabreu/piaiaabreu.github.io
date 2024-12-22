@@ -10,25 +10,25 @@ redirect_from:
 > ## Academic Talks
 
 * **[Association of Private Enterprise Education (APEE) 48th Meeting](https://apee.org/past-programs/)**, Apr. 7-9, 2024, Las Vegas, Nevada, United States.
-_Political Interference and Ownership Networks State-Owned and Mixed-Owned Enterprises in the Brazilian Stock Market_ (slides).
+  * _Political Interference and Ownership Networks State-Owned and Mixed-Owned Enterprises in the Brazilian Stock Market_ (slides).
 
 * **[VII Latin American Society for the History of Economic Thought (ALAHPE) Meeting](https://alahpe.org/wp-content/uploads/2021/01/Programa-ALAHPE-Curitiba.pdf)**, Nov. 20-22, 2019, Curitiba, Paraná, Brazil.
-_Estrutura do capital e complexidade: Escola Austríaca em evolução_ (slides).
+  * _Estrutura do capital e complexidade: Escola Austríaca em evolução_ (slides).
 
 * **[41st Annual Meeting of the Association for Mathematics Applied · to Social and Economic Sciences (AMASES)](https://www.amases.org/41st-annual-meeting-of-the-italian-association-for-mathematics-applied-to-economic-and-social-sciences-amases/)**, Sep. 14-17, 2017, Cagliari, Sardenha, Italy.
-_Structure of Control in Financial Networks: An Application to the Brazilian Stock Market_ (slides).
+  * _Structure of Control in Financial Networks: An Application to the Brazilian Stock Market_ (slides).
 
 * **[Young Scholars Initiative (YSI) Europe Convention 2017 - Trento Festival of Economics (Institute for New Economic Thinking)](https://www.ineteconomics.org/events/trento-festival-of-economics)**, June 1-4, 2017, Trento, Trentino-Alto Ádige, Italy.
-_Brazilian Productive Structure: an analysis from complex networks_.
+  * _Brazilian Productive Structure: an analysis from complex networks_.
   
 * **[XVIII Encontro Nacional de Economia Política (ENEP), Sociedade Brasileira de Economia Política (SEP)](https://www.sep.org.br/01_sites/01/index.php/enep-2/enep-edicoes-anteriores/anais-dos-eneps)**, May 28-31, 2013, Belo Horizonte, Minas Gerais, Brazil.
-_Ação Empreendedora no Pensamento Econômico: a Tradição Austríaca vs. Schumpeter_.
+  * _Ação Empreendedora no Pensamento Econômico: a Tradição Austríaca vs. Schumpeter_.
  
 * **[XV Encontro de Economia da Região Sul (ANPEC SUL)](https://www.anpec.org.br/sul/2012/index.html)**, May 31 - June 1, 2012, Porto Alegre, Rio Grande do Sul, Brazil.
-_Teoria de mercado e eficiência: a perspectiva da Escola Austríaca de Economia versus o Mainstream_.
+  * _Teoria de mercado e eficiência: a perspectiva da Escola Austríaca de Economia versus o Mainstream_.
 
 * **[V Encontro de Economia Gaúcha - Fundaçaão de Economia e Estatística (FEE)](https://arquivofee.rs.gov.br/eventos/encontro-de-economia-gaucha/5-encontro-de-economia-gaucha-2010/)**, May 27-28, 2010, Porto Alegre, Rio Grande do Sul, Brazil.  
-_Composição das exportações dos estados da Região Sul do Brasil: uma aplicação do Método de Shift-Share_.
+  * _Composição das exportações dos estados da Região Sul do Brasil: uma aplicação do Método de Shift-Share_.
 
 ## Other Talks
 
