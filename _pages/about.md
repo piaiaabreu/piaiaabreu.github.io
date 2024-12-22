@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+I am a researcher focused on understanding economics as a complex system. My work bridges theory and practice, using advanced methodologies such as network analysis to explore challenges in economic systems and policy-making. Beyond traditional microfounded approaches, I investigate macroeconomics through the lens of complexity, emphasizing the dynamic interplay of agents, institutions, and networks in shaping economic outcomes.
+
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <div style="max-width: 30%;">
     <p>
-      I am a researcher focused on understanding economics as a complex system. My work bridges theory and practice, using advanced methodologies such as network analysis to explore challenges in economic systems and policy-making. Beyond traditional microfounded approaches, I investigate macroeconomics through the lens of complexity, emphasizing the dynamic interplay of agents, institutions, and networks in shaping economic outcomes.
-    </p>
+    My interests lie at the intersection of classical liberal economic thought, systemic resilience, and the implications of institutional design on economics outcomes. Currently, I dedicate my efforts to developing innovative tools and frameworks that address pressing economic and political issues, striving to bring clarity and actionable insights to complex problems.
+   </p>
 
   </div>
   <div>
@@ -20,4 +22,3 @@ redirect_from:
   </div>
 </div>
 
-My interests lie at the intersection of classical liberal economic thought, systemic resilience, and the implications of institutional design on economics outcomes. Currently, I dedicate my efforts to developing innovative tools and frameworks that address pressing economic and political issues, striving to bring clarity and actionable insights to complex problems.
