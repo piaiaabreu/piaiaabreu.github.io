@@ -34,23 +34,16 @@ redirect_from:
   * _Teoria de mercado e eficiência: a perspectiva da Escola Austríaca de Economia versus o Mainstream_
 
 
-> ## Other Talks
+## Other Talks
 
 * Livres Cast: _A jornada Acadêmica no movimento liberal_
-  * August 2, 2022
-<ul>
-  <li>
-    <a href="https://your-podcast-link.com" target="_blank" title="Listen to the Podcast">
-      <i class="fas fa-podcast"></i> Podcast
+  * August 2, 2022 
+    <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw)" target="_blank" title="Podcast">
+      <i class="fas fa-podcast"></i>
     </a>
-  </li>
-  <li>
-    <a href="https://youtube.com/your-channel-link" target="_blank" title="Visit YouTube Channel">
-      <i class="fab fa-youtube"></i> YouTube
+[    <a href="](https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D)https://youtube.com/your-channel-link" target="_blank" title="YouTube">
+      <i class="fab fa-youtube"></i>
     </a>
-  </li>
-</ul>
-
 
 
 
