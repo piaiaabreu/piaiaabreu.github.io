@@ -20,11 +20,11 @@ redirect_from:
 
 ## Other Publications
 
-> [_Presentation_ - Hayek, F. A. Economia e Conhecimento](https://www.amazon.com.br/Economia-conhecimento-Livro-bolso/dp/6550520053). São Paulo: LvM Editora, 2019.
+> _Presentation_. [Hayek, F. A. Economia e Conhecimento](https://www.amazon.com.br/Economia-conhecimento-Livro-bolso/dp/6550520053). São Paulo: LvM Editora, 2019.
 
-> [_Preface_: MISES, L. Sobre moeda e inflação: Uma síntese de diversas palestras](https://www.amazon.com.br/Sobre-moeda-infla%C3%A7%C3%A3o-diversas-palestras/dp/8593751636). São Paulo: LVM, 2018.
+> _Preface_. [MISES, L. Sobre moeda e inflação: Uma síntese de diversas palestras](https://www.amazon.com.br/Sobre-moeda-infla%C3%A7%C3%A3o-diversas-palestras/dp/8593751636). São Paulo: LVM, 2018.
 
-> [_Review_ - Meseguer, C. M. La Teoría Evolutiva de las Instituciones: La Perspectiva Austriaca](https://doi.org/10.30800/mises.2013.v1.237). MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 1 (1), p. 292-296, 2012.
+> _Review_. [Meseguer, C. M. La Teoría Evolutiva de las Instituciones: La Perspectiva Austriaca](https://doi.org/10.30800/mises.2013.v1.237). MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 1 (1), p. 292-296, 2012.
 
 > _Doctoral Dissertation_. [A complexidade da estrutura produtiva e financeira: uma análise de redes para o Brasil](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2018)_Doctoral%20Dissertation.pdf). June 2018. Department of Economics - Universidade Federal Fluminense (Advisor: Renata R. Del-Vecchio). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
 
