@@ -33,8 +33,16 @@ redirect_from:
   * May 31 - June 1, 2012, Porto Alegre, Rio Grande do Sul, Brazil.
   * _Teoria de mercado e eficiência: a perspectiva da Escola Austríaca de Economia versus o Mainstream_.
 
+* **[V Encontro de Economia Gaúcha - Fundaçaão de Economia e Estatística (FEE)](https://arquivofee.rs.gov.br/eventos/encontro-de-economia-gaucha/5-encontro-de-economia-gaucha-2010/)**
+  * May 27-28, 2010.  
+  * _Composição das exportações dos estados da Região Sul do Brasil: uma aplicação do Método de Shift-Share_.
 
 ## Other Talks
+
+* LOLA
+
+* Livres
+  
 
 * Centro Mackenzie de Liberdade Econômica
   * _V Fórum de Liberdade Econômica, Ciclos de Intervenção e Crise no Brasil_, Dec. 13, 2021
@@ -44,6 +52,12 @@ redirect_from:
   * _Semana Acadêmica 2020 - Redes complexas no mercado de capitais brasileiro_, Sep. 13, 2020
   <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
+* Instituto de Estudos Empresariais (IEE)
+  * _Encontro Semanal, Economia Monetária_, Feb. 18, 2019.
+
+* Instituto Liberal do Nordeste
+  * _IV Semana da Liberdade - Conjuntura Econômica_, May 28, 2016.
+   <a href=" https://youtu.be/rxwvMzuUVVw?si=Qouv0MdUAjic1wog" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
  
 * Mises Brasil
   * _VI Conferência de Escola Austríaca, Escolas Liberais: convergências e divergências_, Sep. 25, 2019
@@ -55,6 +69,13 @@ redirect_from:
   * _II Seminário de Verão, Equilibrio de Mercado vs. Processo de Mercado_, Feb. 7, 2017
   <a href="https://youtu.be/u1d268PxTjU?si=7IXXBnUWkMsnApWh" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
+* Students For Liberty
+  * Libertycon 2023 - Treinamento
+  * Libertycon 2023 - Mesa de Economia
+  * PEtrópolis 1
+  * Petrópolis 2
+  * Liberdade na Estrada Santa Maria
+  * Liberdade na Estrada Pelotas
     
 > ## Interviews and Podcasts
 
@@ -70,12 +91,15 @@ redirect_from:
 * Tapa da Mão Invisível
   * _Episódio 125_, Mar. 16, 2021 
   <a href="https://open.spotify.com/episode/75ZB7hbQ9lW8oFXH0jEpUK?si=jnJGC51MT-2prPZKn2YmgA" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
-  <a href="https://youtu.be/ptNgCRWeouY?si=wFBIkjkEtubFUDaI" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-
+  <a href="https://www.youtube.com/watch?v=40oyzQMb1Qg&t=391s" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Podcast Fábio Ostermann
   * _Ep. #13 - Participação Feminina no Movimento Liberal_, Oct. 30, 2020 
   <a href="https://open.spotify.com/episode/3m2ZLAeeOMuILSWuhszoIb?si=cHxjAqDfSXOOJgbaJ-zpnw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
+
+* MyNews
+  * _Treta do ICMS, a indústria que só encolhe e o coronavírus no Congresso_, Feb. 4, 2020 
+  <a href="https://www.youtube.com/watch?v=HlgwiRA-Fn8&t=49s" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Mises Brasil
   * _187 Podcast_, Sep. 4, 2015 
@@ -84,8 +108,11 @@ redirect_from:
   <a href="https://open.spotify.com/episode/6ThrI3DNnpTf8DkfpUh1t8?si=OfvlQBUxQ5mOxmKWHw-jrg" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
   * _Webinar - Escola Austríaca e mainstream econômico_, July 8, 2020
   <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _Webinar - Moeda, inflação e o futuro da economia_, Aug. 13, 2020
+  <a href="https://www.youtube.com/live/yIRxjJLL3a4?si=70j6xd5bgv6cw0aC" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+ * _Webinar - Descomplicando o economês_, Sep. 10, 2020
+  <a href="https://www.youtube.com/live/xjoIzcGiTzA?si=6MDypzPjdwks8UVZ" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
  
-
 
 
 
