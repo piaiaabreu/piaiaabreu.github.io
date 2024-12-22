@@ -39,10 +39,12 @@ redirect_from:
 
 ## Other Talks
 
-* LOLA
+* LOLA Brasil (Ladies of Liberty Alliance)
+  * Introdução à Economia Liberal, São Paulo, São Paulo, Brazil, 2019.
+  * Outro mais recente
 
 * Livres
-  
+  * Webinar - Quais as Escolas de Pensamento Econômico que defendem o liberalismo? 2019.
 
 * Centro Mackenzie de Liberdade Econômica
   * _V Fórum de Liberdade Econômica, Ciclos de Intervenção e Crise no Brasil_, Dec. 13, 2021
@@ -53,29 +55,40 @@ redirect_from:
   <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Instituto de Estudos Empresariais (IEE)
-  * _Encontro Semanal, Economia Monetária_, Feb. 18, 2019.
+  * _Encontro Semanal, Economia Monetária_, Porto Alegre, Rio Grande do Sul, Brazil, Feb. 18, 2019.
 
 * Instituto Liberal do Nordeste
   * _IV Semana da Liberdade - Conjuntura Econômica_, May 28, 2016.
    <a href=" https://youtu.be/rxwvMzuUVVw?si=Qouv0MdUAjic1wog" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
  
 * Mises Brasil
-  * _VI Conferência de Escola Austríaca, Escolas Liberais: convergências e divergências_, Sep. 25, 2019
-  <a href="https://youtu.be/OC3sg9GwMeM?si=HOGZ62N0lPS_aZ_2" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _Webinar - Escola Austríaca e mainstream econômico_, July 8, 2020
+  <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _Webinar - Moeda, inflação e o futuro da economia_, Aug. 13, 2020
+  <a href="https://www.youtube.com/live/yIRxjJLL3a4?si=70j6xd5bgv6cw0aC" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _Webinar - Descomplicando o economês_, Sep. 10, 2020
+  <a href="https://www.youtube.com/live/xjoIzcGiTzA?si=6MDypzPjdwks8UVZ" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _VI Conferência de Escola Austríaca, Painel de Abertura_, Sep. 25, 2019
   <a href="https://youtu.be/MDqCovEKdac?si=c_K4A5gNvFNmAxaY" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-  * _II Seminário de Verão, Escola Austríaca: Origens e o Que é_, Feb. 6, 2017
+  * _VI Conferência de Escola Austríaca, Escolas Liberais: convergências e divergências_, Sep. 25, 2019
+  <a href="https://youtu.be/OC3sg9GwMeM?si=HOGZ62N0lPS_aZ_2" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _IV Summer School, Estrutura do capital austríaca e a teoria da complexidade_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 8 2019 <a href="https://youtu.be/2Ol6jX2VBVI?si=AtoPaX3OgXgwj8bf" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _II Summer School, Escola Austríaca: Origens e o Que é_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 6, 2017
   <a href="https://youtu.be/FnOjB39eOcQ?si=_lebKhc_Vca5wNVT" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-  * _II Seminário de Verão, Equilibrio de Mercado vs. Processo de Mercado_, Feb. 7, 2017
+  * _II Summer School, Equilibrio de Mercado vs. Processo de Mercado_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 7, 2017
   <a href="https://youtu.be/u1d268PxTjU?si=7IXXBnUWkMsnApWh" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
+
 * Students For Liberty
-  * Libertycon 2023 - Treinamento
-  * Libertycon 2023 - Mesa de Economia
-  * PEtrópolis 1
-  * Petrópolis 2
-  * Liberdade na Estrada Santa Maria
-  * Liberdade na Estrada Pelotas
+  * Simpósio Interdisciplinar Clube Farroupilha, Santa Maria, Rio Grande do Sul, Brazil, 2023
+  * Libertycon 2023 - Treinamento, Belo Horizonte, Minas Gerais, Brasil, 2023.
+  * Libertycon 2023 - Mesa de Economia, Belo Horizonte, Minas Gerais, Brasil, 2023.
+  * Simpósio Interdisciplinar Clube Farroupilha, Santa Maria, Rio Grande do Sul, Brazil, 2019
+  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit), Ação Empreendedora: origens e diferentes abordagens dentro da Escola Austríaca_, Petrópolis, Rio de Janeiro, Brazil, 2016
+  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit) Desindustrialização na Economia Brasileira_, Petrópolis, Rio de Janeiro, Brazil, 2016.
+  * _Liberdade na Estrada_. Brasil: o país do futuro?, Pelotas, Rio Grande do Sul, Brazil, 2015.
+  * _Liberdade na Estrada_. Brasil: o país do futuro?, Santa Maria, Rio Grande do Sul, Brazil, 2015.
+
     
 > ## Interviews and Podcasts
 
@@ -106,14 +119,14 @@ redirect_from:
   <a href="https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
   * _62 Podcast_, Mar. 8, 2013 
   <a href="https://open.spotify.com/episode/6ThrI3DNnpTf8DkfpUh1t8?si=OfvlQBUxQ5mOxmKWHw-jrg" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
-  * _Webinar - Escola Austríaca e mainstream econômico_, July 8, 2020
-  <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-  * _Webinar - Moeda, inflação e o futuro da economia_, Aug. 13, 2020
-  <a href="https://www.youtube.com/live/yIRxjJLL3a4?si=70j6xd5bgv6cw0aC" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-* _Webinar - Descomplicando o economês_, Sep. 10, 2020
-  <a href="https://www.youtube.com/live/xjoIzcGiTzA?si=6MDypzPjdwks8UVZ" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
  
+* Folha de São Paulo
 
+* Estadão
+
+* Gazeta: podcast
+
+* Joven Pan
 
 
 
