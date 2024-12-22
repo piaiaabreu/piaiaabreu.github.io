@@ -1,4 +1,4 @@
-  ---
+---
 title: "Talks"
 permalink:
 author_profile: true
