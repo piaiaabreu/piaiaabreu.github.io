@@ -110,7 +110,7 @@ redirect_from:
   <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _Webinar - Moeda, inflação e o futuro da economia_, Aug. 13, 2020
   <a href="https://www.youtube.com/live/yIRxjJLL3a4?si=70j6xd5bgv6cw0aC" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
- * _Webinar - Descomplicando o economês_, Sep. 10, 2020
+* _Webinar - Descomplicando o economês_, Sep. 10, 2020
   <a href="https://www.youtube.com/live/xjoIzcGiTzA?si=6MDypzPjdwks8UVZ" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
  
 
