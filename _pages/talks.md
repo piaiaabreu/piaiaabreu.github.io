@@ -41,7 +41,7 @@ redirect_from:
     <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw)" target="_blank" title="Podcast">
       <i class="fas fa-podcast"></i>
     </a>
-[    <a href="](https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D)https://youtube.com/your-channel-link" target="_blank" title="YouTube">
+    <a href="](https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D)https://youtube.com/your-channel-link" target="_blank" title="YouTube">
       <i class="fab fa-youtube"></i>
     </a>
 
