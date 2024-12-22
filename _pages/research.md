@@ -24,13 +24,13 @@ redirect_from:
 
 > _Preface_. [MISES, L. Sobre moeda e inflação: Uma síntese de diversas palestras](https://www.amazon.com.br/Sobre-moeda-infla%C3%A7%C3%A3o-diversas-palestras/dp/8593751636). São Paulo: LVM, 2018.
 
+> _Doctoral Dissertation_. [A complexidade da estrutura produtiva e financeira: uma análise de redes para o Brasil](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2018)_Doctoral%20Dissertation.pdf). Department of Economics - Universidade Federal Fluminense (Advisor: Renata R. Del-Vecchio). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES), June 2018.
+
+> _Masters Thesis_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2014)_Masters%20Thesis.pdf). Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES), May 2014.
+
 > _Review_. [Meseguer, C. M. La Teoría Evolutiva de las Instituciones: La Perspectiva Austriaca](https://doi.org/10.30800/mises.2013.v1.237). MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 1 (1), p. 292-296, 2012.
 
-> _Doctoral Dissertation_. [A complexidade da estrutura produtiva e financeira: uma análise de redes para o Brasil](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2018)_Doctoral%20Dissertation.pdf). June 2018. Department of Economics - Universidade Federal Fluminense (Advisor: Renata R. Del-Vecchio). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
-
-> _Masters Thesis_. [Encadeamentos em rede na economia: um estudo aplicado sobre a estrutura econômica brasileira](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2014)_Masters%20Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
-
-> _Bachelor Thesis_. [Metodologia Brasileira dos Atos de Concentração Horizontal: a perspectiva da Escola Austríaca vs. o Mainstream](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2011)_Bachelor%20Thesis.pdf). May 2014. Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES).
+> _Bachelor Thesis_. [Metodologia Brasileira dos Atos de Concentração Horizontal: a perspectiva da Escola Austríaca vs. o Mainstream](https://github.com/piaiaabreu/piaiaabreu.github.io/blob/master/files/PIAIA%20ABREU%20(2011)_Bachelor%20Thesis.pdf). Department of Economics - Universidade Federal de Viçosa (Advisor: Newton Paulo Bueno). Scholarship by the Coordination for the Improvement of Higher Education Personnel (CAPES), May 2011.
 
 
 ## Work in Progress
