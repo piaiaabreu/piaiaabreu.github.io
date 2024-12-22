@@ -1,8 +1,13 @@
 ---
+layout: archive
 title: "Consulting"
-permalink:
+permalink: /consulting/
 author_profile: true
-redirect_from: 
-  - /consulting/
-  - /consulting.html
 ---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
