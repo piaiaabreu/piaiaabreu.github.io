@@ -37,52 +37,52 @@ redirect_from:
 ## Other Talks
 
 * Centro Mackenzie de Liberdade Econômica
-  * _V Fórum de Liberdade Econômica, Ciclos de Intervenção e Crise no Brasil_, Dec. 13, 2021,
+  * _V Fórum de Liberdade Econômica, Ciclos de Intervenção e Crise no Brasil_, Dec. 13, 2021
     <a href="https://youtu.be/lGXZWSxrBmQ?si=3xqb2GKCj0wfTeHu" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Universidade Federal do Paraná
-  * _Semana Acadêmica 2020 - Redes complexas no mercado de capitais brasileiro_, Sep. 13, 2020,
+  * _Semana Acadêmica 2020 - Redes complexas no mercado de capitais brasileiro_, Sep. 13, 2020
   <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
  
 * Mises Brasil
-  * _VI Conferência de Escola Austríaca, Escolas Liberais: convergências e divergências_, Sep. 25, 2019,
+  * _VI Conferência de Escola Austríaca, Escolas Liberais: convergências e divergências_, Sep. 25, 2019
     <a href="https://youtu.be/OC3sg9GwMeM?si=HOGZ62N0lPS_aZ_2" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-  * _VI Conferência de Escola Austríaca, Painel de Abertura_, Sep. 25, 2019,
+  * _VI Conferência de Escola Austríaca, Painel de Abertura_, Sep. 25, 2019
     <a href="https://youtu.be/MDqCovEKdac?si=c_K4A5gNvFNmAxaY" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-  * _II Seminário de Verão, Escola Austríaca: Origens e o Que é_, Feb. 6, 2017,
+  * _II Seminário de Verão, Escola Austríaca: Origens e o Que é_, Feb. 6, 2017
     <a href="https://youtu.be/FnOjB39eOcQ?si=_lebKhc_Vca5wNVT" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-  * _II Seminário de Verão, Equilibrio de Mercado vs. Processo de Mercado_, Feb. 7, 2017,
+  * _II Seminário de Verão, Equilibrio de Mercado vs. Processo de Mercado_, Feb. 7, 2017
     <a href="https://youtu.be/u1d268PxTjU?si=7IXXBnUWkMsnApWh" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
     
 > ## Interviews and Podcasts
 
 * Livres Cast
-  * _A jornada Acadêmica no movimento liberal_, Aug. 2, 2022, 
+  * _A jornada Acadêmica no movimento liberal_, Aug. 2, 2022 
     <a href="https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
     <a href="https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * FlowNews
- * _#82 - Governo que envia PEC que proíbe militares de ocuparem cargos políticos_, Aug. 30, 2023, 
+ * _#82 - Governo que envia PEC que proíbe militares de ocuparem cargos políticos_, Aug. 30, 2023 
     <a href="https://youtu.be/MDqCovEKdac?si=c_K4A5gNvFNmAxaY" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Tapa da Mão Invisível
-  * _Episódio 125_, Mar. 16, 2021, 
+  * _Episódio 125_, Mar. 16, 2021 
     <a href="https://open.spotify.com/episode/75ZB7hbQ9lW8oFXH0jEpUK?si=jnJGC51MT-2prPZKn2YmgA" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
     <a href="https://youtu.be/ptNgCRWeouY?si=wFBIkjkEtubFUDaI" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 
 * Podcast Fábio Ostermann
-  * _Ep. #13 - Participação Feminina no Movimento Liberal_, Oct. 30, 2020, 
+  * _Ep. #13 - Participação Feminina no Movimento Liberal_, Oct. 30, 2020 
     <a href="https://open.spotify.com/episode/3m2ZLAeeOMuILSWuhszoIb?si=cHxjAqDfSXOOJgbaJ-zpnw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
 
 * Mises Brasil
-  * _187 Podcast_, Sep. 4, 2015, 
+  * _187 Podcast_, Sep. 4, 2015 
     <a href="https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
-  * _62 Podcast_, Mar. 8, 2013, 
+  * _62 Podcast_, Mar. 8, 2013 
     <a href="https://open.spotify.com/episode/6ThrI3DNnpTf8DkfpUh1t8?si=OfvlQBUxQ5mOxmKWHw-jrg" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
-  * _Webinar - Escola Austríaca e mainstream econômico_, July 8, 2020,
+  * _Webinar - Escola Austríaca e mainstream econômico_, July 8, 2020
     <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
  
 
