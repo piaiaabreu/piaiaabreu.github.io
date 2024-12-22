@@ -36,22 +36,27 @@ redirect_from:
 
 ## Other Talks
 
-* Livres Cast
-  * _A jornada Acadêmica no movimento liberal_, August 2, 2022, 
-    <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw)" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
-    <a href="](https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D)https://youtube.com/your-channel-link" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-
-* Mises Brasil
-  * _187 Podcast_, September, 2015, 
-    <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw)" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
-  * _62 Podcast_, March 8, 2013, 
-    <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/6ThrI3DNnpTf8DkfpUh1t8?si=OfvlQBUxQ5mOxmKWHw-jrg)" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
-
-
 
 
 
 > ## Interviews and Podcasts
+
+* Livres Cast
+  * _A jornada Acadêmica no movimento liberal_, August 2, 2022, 
+    <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw)" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
+    <a href="][https://youtube.com/your-channel-link](https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D)" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+
+* Podcast Fábio Ostermann
+  * _Ep. #13 - Participação Feminina no Movimento Liberal_, October 30, 2020, 
+    <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/3m2ZLAeeOMuILSWuhszoIb?si=cHxjAqDfSXOOJgbaJ-zpnw)" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
+
+* Mises Brasil
+  * _VI Conferência de Escola Austríaca_, September, 25, 2019,
+    <a href="][https://youtube.com/your-channel-link](https://youtu.be/OC3sg9GwMeM?si=HOGZ62N0lPS_aZ_2)" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _187 Podcast_, September 4, 2015, 
+    <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw)" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
+  * _62 Podcast_, March 8, 2013, 
+    <a href="[https://your-podcast-link.com](https://open.spotify.com/episode/6ThrI3DNnpTf8DkfpUh1t8?si=OfvlQBUxQ5mOxmKWHw-jrg)" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
 
 
 
