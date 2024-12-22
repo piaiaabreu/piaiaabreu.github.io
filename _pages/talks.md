@@ -9,12 +9,6 @@ redirect_from:
 
 > ## Academic Talks
 
-<details open>
-  <summary> </summary>
-  
-### 49th APEE Meeting
-
-</details>
 
 
 > ## Other Talks
@@ -22,3 +16,11 @@ redirect_from:
 
 > ## Interviews and Podcasts
 
+> <details open>
+  <summary style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">Others</summary>
+  * Lala
+
+  * Lala
+
+  * Lala
+</details>
