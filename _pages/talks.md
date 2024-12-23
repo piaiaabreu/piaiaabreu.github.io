@@ -135,7 +135,7 @@ redirect_from:
     <a href="https://www1.folha.uol.com.br/podcasts/2019/10/podcast-discute-o-surgimento-de-uma-primavera-liberal-no-brasil.shtml" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
  * Gazeta do Povo
-   * _Ideias #135: Qual o problema com o protecionismo de Donald Trump_, Dec. 6, 2019.
+   * _Ideias #135: Qual o problema com o protecionismo de Donald Trump_, Dec. 6, 2019
    <a href="https://podcasts.apple.com/br/podcast/ideias-135-qual-o-problema-com-o-protecionismo-de/id1233826664?i=1000458879468" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a> 
    <a href="https://www.gazetadopovo.com.br/ideias/ideias-135-protecionismo-donald-trump/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
