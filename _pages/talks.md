@@ -73,11 +73,11 @@ redirect_from:
 
 
 * Students For Liberty
-  * Simpósio Interdisciplinar Clube Farroupilha, Santa Maria, Rio Grande do Sul, Brazil, 2023
+  * Simpósio Interdisciplinar Clube Farroupilha, Santa Maria, Rio Grande do Sul, Brazil, 2023.
   * Libertycon 2023 - Treinamento, Belo Horizonte, Minas Gerais, Brasil, 2023.
   * Libertycon 2023 - Mesa de Economia, Belo Horizonte, Minas Gerais, Brasil, 2023.
-  * Simpósio Interdisciplinar Clube Farroupilha, Santa Maria, Rio Grande do Sul, Brazil, 2019
-  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit), Ação Empreendedora: origens e diferentes abordagens dentro da Escola Austríaca_, Petrópolis, Rio de Janeiro, Brazil, 2016
+  * Simpósio Interdisciplinar Clube Farroupilha, Santa Maria, Rio Grande do Sul, Brazil, 2019.
+  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit), Ação Empreendedora: origens e diferentes abordagens dentro da Escola Austríaca_, Petrópolis, Rio de Janeiro, Brazil, 2016.
   * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit) Desindustrialização na Economia Brasileira_, Petrópolis, Rio de Janeiro, Brazil, 2016.
   * _Liberdade na Estrada_. Brasil: o país do futuro?, Pelotas, Rio Grande do Sul, Brazil, 2015.
   * _Liberdade na Estrada_. Brasil: o país do futuro?, Santa Maria, Rio Grande do Sul, Brazil, 2015.
