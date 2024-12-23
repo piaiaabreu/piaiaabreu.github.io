@@ -36,19 +36,24 @@ redirect_from:
   * Introdução à Economia Liberal, São Paulo, São Paulo, Brazil, 2019.
   * Outro mais recente
 
-* Livres
-  * Webinar - Quais as Escolas de Pensamento Econômico que defendem o liberalismo? 2019.
-
 * Centro Mackenzie de Liberdade Econômica
   * _V Fórum de Liberdade Econômica, Ciclos de Intervenção e Crise no Brasil_, Dec. 13, 2021
   <a href="https://youtu.be/lGXZWSxrBmQ?si=3xqb2GKCj0wfTeHu" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+
+*  OMMA Business School Madrid
+  * _Seminário - Complexidade da Estrutura Produtiva e Financeira_
+  <a href=" https://youtu.be/otrpWJ2GFZM?si=BZJM8B01LETugiOo" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  <a href="https://omma.edu.es/seminario-sobre-economia-da-complexidade-com-o-prof-mariana-piaia/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Universidade Federal do Paraná
   * _Semana Acadêmica 2020 - Redes complexas no mercado de capitais brasileiro_, Sep. 13, 2020
   <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
+* Livres
+  * Webinar - Quais as Escolas de Pensamento Econômico que defendem o liberalismo? 2019.
+
 * Instituto de Estudos Empresariais (IEE)
-  * _Encontro Semanal, Economia Monetária_, Porto Alegre, Rio Grande do Sul, Brazil, Feb. 18, 2019.
+  * _Jantar Debate, Economia Monetária_, Porto Alegre, Rio Grande do Sul, Brazil, Feb. 18, 2019.
 
 * Instituto Liberal do Nordeste
   * _IV Semana da Liberdade - Conjuntura Econômica_, May 28, 2016.
@@ -117,9 +122,16 @@ redirect_from:
   <a href="https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
   * _62 Podcast_, Mar. 8, 2013 
   <a href="https://open.spotify.com/episode/6ThrI3DNnpTf8DkfpUh1t8?si=OfvlQBUxQ5mOxmKWHw-jrg" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
- 
+
+ * Gazeta: podcast
+
+* Joven Pan
+
 
 > ## Op-Eds
+
+* Exame
+  * [_Brasil em queda em rankings de competitividade: análise e soluções_](https://exame.com/colunistas/instituto-millenium/brasil-em-queda-em-rankings-de-competitividade-analise-e-solucoes/), Jul. 15, 2024.
 
 * Folha de S. Paulo
   * [_Livre iniciativa e a iniciativa privada_](https://www1.folha.uol.com.br/opiniao/2020/02/livre-iniciativa-e-a-iniciativa-privada.shtml), Feb. 02, 2020.
@@ -128,9 +140,6 @@ redirect_from:
 * Estadão
   * [_A importância da liberdade econômica para o desenvolvimento de um país_](https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-importancia-da-liberdade-economica-para-o-desenvolvimento-de-um-pais/?srsltid=AfmBOoo6KNqwiLAW-tWoPOs2hn5Lcatc2QyOqPIipPnyQOa-JPhSHjmH), Nov. 29, 2019.
   
-* Gazeta: podcast
-
-* Joven Pan
 
 
 
