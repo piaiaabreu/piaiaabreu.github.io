@@ -20,7 +20,7 @@ redirect_from:
 * Congress
 
 
-## [Research Associate, Instituto Millenium]([https://studentsforliberty.org/blog/staff/mariana-piaia/](https://institutomillenium.org.br/colunistas/mariana-piaia/)
+## [Research Associate, Instituto Millenium](https://institutomillenium.org.br/colunistas/mariana-piaia/)
 
 * [Index of Bureaucracy](https://freedom.fiu.edu/index-of-bureaucracy/) (2023, 2024)
   * With Adam Smith Center for Economic Freedom, Florida International University.
