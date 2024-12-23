@@ -14,8 +14,11 @@ redirect_from:
 
 * **[VII Latin American Society for the History of Economic Thought (ALAHPE) Meeting](https://alahpe.org/wp-content/uploads/2021/01/Programa-ALAHPE-Curitiba.pdf)**, Nov. 20-22, 2019, Curitiba, Paraná, Brazil.
   * _Estrutura do capital e complexidade: Escola Austríaca em evolução_ (slides).
+ 
+* **[Research in Options (RiO) 2017, Instituto Nacional de Matemática Pura e Aplicada(IMPA)](https://impa.br/eventos-do-impa/eventos-2017/research-in-options-2017/)**, Nov. 28, 2017, Rio de Janeiro, Rio de Janeiro, Brazil.
+    * _Structure of Control in Financial Networks: an Application to the Brazilian Stock Market_ [[abstract]](https://impa.br/wp-content/uploads/2017/11/RiO2017-CT_MPAbreu.pdf).
 
-* **[41st Annual Meeting of the Association for Mathematics Applied · to Social and Economic Sciences (AMASES)](https://www.amases.org/41st-annual-meeting-of-the-italian-association-for-mathematics-applied-to-economic-and-social-sciences-amases/)**, Sep. 14-17, 2017, Cagliari, Sardenha, Italy.
+* **[41st Annual Meeting of the Association for Mathematics Applied to Social and Economic Sciences (AMASES)](https://www.amases.org/41st-annual-meeting-of-the-italian-association-for-mathematics-applied-to-economic-and-social-sciences-amases/)**, Sep. 14-17, 2017, Cagliari, Sardenha, Italy.
   * _Structure of Control in Financial Networks: An Application to the Brazilian Stock Market_ (slides).
 
 * **[Young Scholars Initiative (YSI) Europe Convention 2017 - Trento Festival of Economics (Institute for New Economic Thinking)](https://www.ineteconomics.org/events/trento-festival-of-economics)**, June 1-4, 2017, Trento, Trentino-Alto Ádige, Italy.
