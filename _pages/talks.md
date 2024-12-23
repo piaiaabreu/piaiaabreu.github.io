@@ -110,8 +110,8 @@ redirect_from:
 * Folha de S. Paulo
   * _Podcast Do Lado Direito do Peito #2: Primavera Liberal no Brasil_, Oct. 30, 2019.
     <a href="https://open.spotify.com/episode/2dKDy1aQ8aPFySZvJrhBw0?si=415458def3924024" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
-    <a href="https://www1.folha.uol.com.br/podcasts/2019/10/podcast-discute-o-surgimento-de-uma-primavera-liberal-no-brasil.shtml" target="_blank" title="Paper"><i class="fas fa-paper"></i></a>.
-
+    <a href="https://www1.folha.uol.com.br/podcasts/2019/10/podcast-discute-o-surgimento-de-uma-primavera-liberal-no-brasil.shtml" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>
+  
 * Mises Brasil
   * _187 Podcast_, Sep. 4, 2015 
   <a href="https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
