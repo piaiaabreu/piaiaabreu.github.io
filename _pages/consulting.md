@@ -20,6 +20,15 @@ redirect_from:
 * Congress
 
 
+## [Research Associate, Instituto Millenium]([https://studentsforliberty.org/blog/staff/mariana-piaia/](https://institutomillenium.org.br/colunistas/mariana-piaia/)
+
+* [Index of Bureaucracy](https://freedom.fiu.edu/index-of-bureaucracy/) (2023, 2024)
+  * With Adam Smith Center for Economic Freedom, Florida International University.
+
+* [Country Risk Index](https://news.fiu.edu/2024/helping-businesses-navigate-latin-americas-complex-political-economic-and-social-risks-landscape) (2024)
+  * With Adam Smith Center for Economic Freedom, Florida International University.
+
+
 
 ## [Research Manager, Students For Liberty](https://studentsforliberty.org/blog/staff/mariana-piaia/)
 
