@@ -107,16 +107,27 @@ redirect_from:
   * _Treta do ICMS, a indústria que só encolhe e o coronavírus no Congresso_, Feb. 4, 2020 
   <a href="https://www.youtube.com/watch?v=HlgwiRA-Fn8&t=49s" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
+* Folha de S. Paulo
+  * _Podcast Do Lado Direito do Peito #2: Primavera Liberal no Brasil_, Oct. 30, 2019.
+    <a href="https://open.spotify.com/episode/2dKDy1aQ8aPFySZvJrhBw0?si=415458def3924024" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
+    <a href="https://www1.folha.uol.com.br/podcasts/2019/10/podcast-discute-o-surgimento-de-uma-primavera-liberal-no-brasil.shtml" target="_blank" title="Paper"><i class="fas fa-paper"></i></a>.
+
 * Mises Brasil
   * _187 Podcast_, Sep. 4, 2015 
   <a href="https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
   * _62 Podcast_, Mar. 8, 2013 
   <a href="https://open.spotify.com/episode/6ThrI3DNnpTf8DkfpUh1t8?si=OfvlQBUxQ5mOxmKWHw-jrg" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
  
-* Folha de São Paulo
+
+> ## Op-Eds
+
+* Folha de S. Paulo
+  * [_Livre iniciativa e a iniciativa privada_](https://www1.folha.uol.com.br/opiniao/2020/02/livre-iniciativa-e-a-iniciativa-privada.shtml), Feb. 02, 2020.
+  * [_Boas novas no BNDES_](https://www1.folha.uol.com.br/opiniao/2019/12/boas-novas-do-bndes.shtml), Dec. 25, 2019.
 
 * Estadão
-
+  * [_A importância da liberdade econômica para o desenvolvimento de um país_](https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-importancia-da-liberdade-economica-para-o-desenvolvimento-de-um-pais/?srsltid=AfmBOoo6KNqwiLAW-tWoPOs2hn5Lcatc2QyOqPIipPnyQOa-JPhSHjmH), Nov. 29, 2019.
+  
 * Gazeta: podcast
 
 * Joven Pan
