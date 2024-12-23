@@ -21,7 +21,7 @@ redirect_from:
   
 * _Master Scholarship_. Coordination for the Improvement of Higher Education Personnel (CAPES), Universidade Federal de Viçosa,  Mar. 2012 - Feb. 2014.
 
-* * _Research Grant_. Modeling the diffusion of behaviors compatible with the sustainability of socio-ecological systems in Minas Gerais using network analysis (integrant), Minas Gerais State Research Support Foundation (FAPEMIG), Mar. 2013 - Feb. 2014.
+* _Research Grant_. Modeling the diffusion of behaviors compatible with the sustainability of socio-ecological systems in Minas Gerais using network analysis (integrant), Minas Gerais State Research Support Foundation (FAPEMIG), Mar. 2013 - Feb. 2014.
   
 * _Best Bachelor Student in Economics Award_. Rio Grande do Sul Economy Council, Universidade Federal de Santa Maria, Aug. 2011.
 
