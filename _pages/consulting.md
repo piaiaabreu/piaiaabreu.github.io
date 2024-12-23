@@ -7,6 +7,20 @@ redirect_from:
   - /consulting.html
 ---
 
+
+# Public Policy Impact
+
+*
+
+
+## Politics
+
+* Elections
+
+* Congress
+
+
+
 ## [Research Manager, Students For Liberty](https://studentsforliberty.org/blog/staff/mariana-piaia/)
 
 * Learn Liberty (YouTube Channel  <a href="https://www.youtube.com/learnliberty" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>)
