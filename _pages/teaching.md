@@ -10,11 +10,18 @@ redirect_from:
 ### Ibmec-SP
 
 | Courses                              | Program       | Period            |
-| --------                              | ------        | ------------------ |
-| Dynamic Macroeconomics               | Economics     | 2021/II - 2024/I   |
+| --------                             | ------        | ------------------|
+| Dynamic Macroeconomics               | Economics     | 2021/II - 2024/I  |
 | Principles of Macroeconomics and National Accounting | Business, Economics | 2023/I - 2024/I   |
 | Open Economy Macroeconomics          | Economics     | 2023/I - 2024/I   |
-| Free Market Economic Thought         | Multidisciplinary | 2023/I           |
+| Free Market Economic Thought         | Multidisciplinary | 2023/I        |
+
+| Studies Group                        | Role             | Period             |
+| --------                             | ------           | ------------------ |
+| Applied Macroeconomics               | Member           | 2023/II - 2024/I    |
+| Public Policy                        | Coordenation     | 2022/II            |
+| Economics, Politics and Society      | Co-ordination    | 2021/II - 2022/I   |
+
 
 ### Universidade Presbiteriana Mackenzie
 
