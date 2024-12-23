@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-# Public Policy Impact
+## Analyis of Public Policy Impact
 
 *
 
 
-## Politics
+## Politics Analysis
 
 * Elections
 
