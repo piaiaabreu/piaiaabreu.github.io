@@ -32,6 +32,18 @@ redirect_from:
 
 ## Other Talks
 
+* Students For Liberty
+  * _Simpósio Interdisciplinar Clube Farroupilha, A Terceira Via é uma Opção?_,  Santa Maria, Rio Grande do Sul, Brazil, Nov. 9, 2024 [slides] 
+  <a href="https://clubefarroupilha.com.br/sif/#ingressos" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
+  * Libertycon 2023 - Treinamento, Belo Horizonte, Minas Gerais, Brasil, 2023.
+  * Libertycon 2023 - Mesa de Economia, Belo Horizonte, Minas Gerais, Brasil, 2023.
+  * Simpósio Interdisciplinar Clube Farroupilha, Santa Maria, Rio Grande do Sul, Brazil, 2019.
+  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit), Ação Empreendedora: origens e diferentes abordagens dentro da Escola Austríaca_, Petrópolis, Rio de Janeiro, Brazil, 2016.
+  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit) Desindustrialização na Economia Brasileira_, Petrópolis, Rio de Janeiro, Brazil, 2016.
+  * _Liberdade na Estrada_. Brasil: o país do futuro?, Pelotas, Rio Grande do Sul, Brazil, 2015.
+  * _Liberdade na Estrada_. Brasil: o país do futuro?, Santa Maria, Rio Grande do Sul, Brazil, 2015.
+
+
 * LOLA Brasil (Ladies of Liberty Alliance)
   * Introdução à Economia Liberal, São Paulo, São Paulo, Brazil, 2019.
   * Outro mais recente
@@ -42,23 +54,13 @@ redirect_from:
 
 *  OMMA Business School Madrid
   * _Seminário - Complexidade da Estrutura Produtiva e Financeira_
-  <a href=" https://youtu.be/otrpWJ2GFZM?si=BZJM8B01LETugiOo" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  <a href=" https://youtu.be/otrpWJ2GFZM?si=BZJM8B01LETugiOo" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
   <a href="https://omma.edu.es/seminario-sobre-economia-da-complexidade-com-o-prof-mariana-piaia/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Universidade Federal do Paraná
   * _Semana Acadêmica 2020 - Redes complexas no mercado de capitais brasileiro_, Sep. 13, 2020
   <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
-* Livres
-  * Webinar - Quais as Escolas de Pensamento Econômico que defendem o liberalismo? 2019.
-
-* Instituto de Estudos Empresariais (IEE)
-  * _Jantar Debate, Economia Monetária_, Porto Alegre, Rio Grande do Sul, Brazil, Feb. 18, 2019.
-
-* Instituto Liberal do Nordeste
-  * _IV Semana da Liberdade - Conjuntura Econômica_, May 28, 2016.
-   <a href=" https://youtu.be/rxwvMzuUVVw?si=Qouv0MdUAjic1wog" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
- 
 * Mises Brasil
   * _Webinar - Escola Austríaca e mainstream econômico_, July 8, 2020
   <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
@@ -77,17 +79,20 @@ redirect_from:
   * _II Summer School, Equilibrio de Mercado vs. Processo de Mercado_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 7, 2017
   <a href="https://youtu.be/u1d268PxTjU?si=7IXXBnUWkMsnApWh" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
+* Instituto Legislativo Paulista (ILP)
+  * _A importância do empreendedorismo_, Nov. 28, 2019
+  <a href="https://www.al.sp.gov.br/ilp/cursos-eventos/detalheAtividade.jsp?id=5585" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
-* Students For Liberty
-  * Simpósio Interdisciplinar Clube Farroupilha, Santa Maria, Rio Grande do Sul, Brazil, 2023.
-  * Libertycon 2023 - Treinamento, Belo Horizonte, Minas Gerais, Brasil, 2023.
-  * Libertycon 2023 - Mesa de Economia, Belo Horizonte, Minas Gerais, Brasil, 2023.
-  * Simpósio Interdisciplinar Clube Farroupilha, Santa Maria, Rio Grande do Sul, Brazil, 2019.
-  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit), Ação Empreendedora: origens e diferentes abordagens dentro da Escola Austríaca_, Petrópolis, Rio de Janeiro, Brazil, 2016.
-  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit) Desindustrialização na Economia Brasileira_, Petrópolis, Rio de Janeiro, Brazil, 2016.
-  * _Liberdade na Estrada_. Brasil: o país do futuro?, Pelotas, Rio Grande do Sul, Brazil, 2015.
-  * _Liberdade na Estrada_. Brasil: o país do futuro?, Santa Maria, Rio Grande do Sul, Brazil, 2015.
-  * 
+* Livres
+  * Webinar - Quais as Escolas de Pensamento Econômico que defendem o liberalismo? 2019.
+
+* Instituto de Estudos Empresariais (IEE)
+  * _Jantar Debate, Economia Monetária_, Porto Alegre, Rio Grande do Sul, Brazil, Feb. 18, 2019.
+
+* Instituto Liberal do Nordeste
+  * _IV Semana da Liberdade - Conjuntura Econômica_, May 28, 2016
+   <a href=" https://youtu.be/rxwvMzuUVVw?si=Qouv0MdUAjic1wog" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+ 
     
 > ## Interviews and Podcasts
 
