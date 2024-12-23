@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8c6fdb57-64f2-4dd0-b199-72505d67acda)---
+---
 title: "Talks & Op-Eds"
 permalink:
 author_profile: true
