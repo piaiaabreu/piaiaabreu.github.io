@@ -53,7 +53,7 @@ redirect_from:
 * Centro Mackenzie de Liberdade Econômica
   * _V Fórum de Liberdade Econômica, Ciclos de Intervenção e Crise no Brasil_, Dec. 13, 2021
   <a href="https://youtu.be/lGXZWSxrBmQ?si=3xqb2GKCj0wfTeHu" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-  * _Minicurso XVII Semana de Preparação Pedagógica - Teoria de Redes Aplicada à Economia_, Jan. 29-21, 2019.
+  * _Minicurso XVII Semana de Preparação Pedagógica - Teoria de Redes Aplicada à Economia_, Jan. 29-31, 2019.
 
 *  OMMA Business School Madrid
   * _Seminário - Complexidade da Estrutura Produtiva e Financeira_ Aug. 10, 2021
