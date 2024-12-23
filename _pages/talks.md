@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/8c6fdb57-64f2-4dd0-b199-72505d67acda)---
 title: "Talks & Op-Eds"
 permalink:
 author_profile: true
@@ -10,19 +10,19 @@ redirect_from:
 > ## Academic Talks
 
 * **[Association of Private Enterprise Education (APEE) 48th Meeting](https://apee.org/past-programs/)**, Apr. 7-9, 2024, Las Vegas, Nevada, United States.
-  * _Political Interference and Ownership Networks State-Owned and Mixed-Owned Enterprises in the Brazilian Stock Market_ (slides).
+  * _Political Interference and Ownership Networks State-Owned and Mixed-Owned Enterprises in the Brazilian Stock Market_ [slides].
 
 * **[VII Latin American Society for the History of Economic Thought (ALAHPE) Meeting](https://alahpe.org/wp-content/uploads/2021/01/Programa-ALAHPE-Curitiba.pdf)**, Nov. 20-22, 2019, Curitiba, Paraná, Brazil.
-  * _Estrutura do capital e complexidade: Escola Austríaca em evolução_ (slides).
+  * _Estrutura do capital e complexidade: Escola Austríaca em evolução_ [slides].
  
 * **[Research in Options (RiO) 2017, Instituto Nacional de Matemática Pura e Aplicada(IMPA)](https://impa.br/eventos-do-impa/eventos-2017/research-in-options-2017/)**, Nov. 28, 2017, Rio de Janeiro, Rio de Janeiro, Brazil.
     * _Structure of Control in Financial Networks: an Application to the Brazilian Stock Market_ [[abstract]](https://impa.br/wp-content/uploads/2017/11/RiO2017-CT_MPAbreu.pdf).
 
 * **[41st Annual Meeting of the Association for Mathematics Applied to Social and Economic Sciences (AMASES)](https://www.amases.org/41st-annual-meeting-of-the-italian-association-for-mathematics-applied-to-economic-and-social-sciences-amases/)**, Sep. 14-17, 2017, Cagliari, Sardenha, Italy.
-  * _Structure of Control in Financial Networks: An Application to the Brazilian Stock Market_ (slides).
+  * _Structure of Control in Financial Networks: An Application to the Brazilian Stock Market_ [slides].
 
 * **[Young Scholars Initiative (YSI) Europe Convention 2017 - Trento Festival of Economics (Institute for New Economic Thinking)](https://www.ineteconomics.org/events/trento-festival-of-economics)**, June 1-4, 2017, Trento, Trentino-Alto Ádige, Italy.
-  * _Brazilian Productive Structure: an analysis from complex networks_.
+  * _Brazilian Productive Structure: an analysis from complex networks_ [slides].
   
 * **[XVIII Encontro Nacional de Economia Política (ENEP), Sociedade Brasileira de Economia Política (SEP)](https://www.sep.org.br/01_sites/01/index.php/enep-2/enep-edicoes-anteriores/anais-dos-eneps)**, May 28-31, 2013, Belo Horizonte, Minas Gerais, Brazil.
   * _Ação Empreendedora no Pensamento Econômico: a Tradição Austríaca vs. Schumpeter_.
@@ -33,31 +33,31 @@ redirect_from:
 * **[V Encontro de Economia Gaúcha - Fundaçaão de Economia e Estatística (FEE)](https://arquivofee.rs.gov.br/eventos/encontro-de-economia-gaucha/5-encontro-de-economia-gaucha-2010/)**, May 27-28, 2010, Porto Alegre, Rio Grande do Sul, Brazil.  
   * _Composição das exportações dos estados da Região Sul do Brasil: uma aplicação do Método de Shift-Share_.
 
+
 ## Other Talks
 
 * Students For Liberty
-  * _Simpósio Interdisciplinar Clube Farroupilha, A Terceira Via é uma Opção?_,  Santa Maria, Rio Grande do Sul, Brazil, Nov. 9, 2024 [slides] 
-  <a href="https://clubefarroupilha.com.br/sif/#ingressos" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
-  * Libertycon 2023 - Treinamento, Belo Horizonte, Minas Gerais, Brasil, 2023.
-  * Libertycon 2023 - Mesa de Economia, Belo Horizonte, Minas Gerais, Brasil, 2023.
-  * Simpósio Interdisciplinar Clube Farroupilha, Santa Maria, Rio Grande do Sul, Brazil, 2019.
-  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit), Ação Empreendedora: origens e diferentes abordagens dentro da Escola Austríaca_, Petrópolis, Rio de Janeiro, Brazil, 2016.
-  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit) Desindustrialização na Economia Brasileira_, Petrópolis, Rio de Janeiro, Brazil, 2016.
-  * _Liberdade na Estrada_. Brasil: o país do futuro?, Pelotas, Rio Grande do Sul, Brazil, 2015.
-  * _Liberdade na Estrada_. Brasil: o país do futuro?, Santa Maria, Rio Grande do Sul, Brazil, 2015.
-
+  * _Simpósio Interdisciplinar Clube Farroupilha (SIF) - A Terceira Via é uma Opção?_,  Santa Maria, Rio Grande do Sul, Brazil, Nov. 9, 2024 [slides].
+  * _Libertycon 2023 - Treinamento: Não Seja..._, Belo Horizonte, Minas Gerais, Brasil, Oct. 5 2023.
+  * _Libertycon 2023 - Mesa de Economia_, Belo Horizonte, Minas Gerais, Brasil, Oct. 5 2023.
+  * _Simpósio Interdisciplinar Clube Farroupilha (SIF) - Entre o socialismo e o capitalismo: Ciclos intervencionistas-desintervencionistas_, Santa Maria, Rio Grande do Sul, Brazil, Nov. 8, 2019 [slides].
+  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit) - Ação Empreendedora: origens e diferentes abordagens dentro da Escola Austríaca_, Petrópolis, Rio de Janeiro, Brazil, 2016.
+  * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit) - Desindustrialização na Economia Brasileira_, Petrópolis, Rio de Janeiro, Brazil, 2016.
+  * _Liberdade na Estrada - Brasil: o país do futuro?_, Pelotas, Rio Grande do Sul, Brazil, 2015.
+  * _Liberdade na Estrada - Brasil: o país do futuro?_, Santa Maria, Rio Grande do Sul, Brazil, 2015.
 
 * LOLA Brasil (Ladies of Liberty Alliance)
-  * Introdução à Economia Liberal, São Paulo, São Paulo, Brazil, 2019.
-  * Outro mais recente
+  * _Workshop Online: Pensamento Econômico Liberal_, Aug. 6, 2023 [slides].
+  * _Introdução à Economia Liberal_, São Paulo, São Paulo, Brazil, Oct. 5, 2019 [slides].
 
 * Centro Mackenzie de Liberdade Econômica
   * _V Fórum de Liberdade Econômica, Ciclos de Intervenção e Crise no Brasil_, Dec. 13, 2021
   <a href="https://youtu.be/lGXZWSxrBmQ?si=3xqb2GKCj0wfTeHu" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _Minicurso XVII Semana de Preparação Pedagógica - Teoria de Redes Aplicada à Economia_, Jan. 29-21, 2019.
 
 *  OMMA Business School Madrid
-  * _Seminário - Complexidade da Estrutura Produtiva e Financeira_
-  <a href=" https://youtu.be/otrpWJ2GFZM?si=BZJM8B01LETugiOo" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
+  * _Seminário - Complexidade da Estrutura Produtiva e Financeira_ Aug. 10, 2021
+  <a href="https://youtu.be/otrpWJ2GFZM?si=BZJM8B01LETugiOo" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
   <a href="https://omma.edu.es/seminario-sobre-economia-da-complexidade-com-o-prof-mariana-piaia/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Universidade Federal do Paraná
@@ -87,10 +87,10 @@ redirect_from:
   <a href="https://www.al.sp.gov.br/ilp/cursos-eventos/detalheAtividade.jsp?id=5585" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Livres
-  * Webinar - Quais as Escolas de Pensamento Econômico que defendem o liberalismo? 2019.
+  * _Webinar Associados - Quais as Escolas de Pensamento Econômico que defendem o liberalismo?_, May 21, 2019.
 
 * Instituto de Estudos Empresariais (IEE)
-  * _Jantar Debate, Economia Monetária_, Porto Alegre, Rio Grande do Sul, Brazil, Feb. 18, 2019.
+  * _Jantar Debate Associados - Economia Monetária_, Porto Alegre, Rio Grande do Sul, Brazil, Feb. 18, 2019.
 
 * Instituto Liberal do Nordeste
   * _IV Semana da Liberdade - Conjuntura Econômica_, May 28, 2016
@@ -99,14 +99,22 @@ redirect_from:
     
 > ## Interviews and Podcasts
 
-* Livres Cast
-  * _A jornada Acadêmica no movimento liberal_, Aug. 2, 2022 
-  <a href="https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
-  <a href="https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+* Joven Pan News
+  * _Linha de Frente_, Aug. 10, 2024
+  <a href="https://youtu.be/g3f2lVfE8OE?si=ON82-PYurDeGBI3w" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _Linha de Frente_, Dec. 23, 2023
+  <a href="https://youtu.be/vCIm8MY9X2g?si=wRRMdDx2h6aIxpS9" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _Linha de Frente_, Dec. 2, 2023
+  <a href="https://youtu.be/-ZzPHT9LxdU?si=ycFq0wVHTJ6tntue" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * FlowNews
   * _#82 - Governo que envia PEC que proíbe militares de ocuparem cargos políticos_, Aug. 30, 2023 
   <a href="https://youtu.be/MDqCovEKdac?si=c_K4A5gNvFNmAxaY" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+
+* Livres Cast
+  * _A jornada Acadêmica no movimento liberal_, Aug. 2, 2022 
+  <a href="https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
+  <a href="https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Tapa da Mão Invisível
   * _Episódio 125_, Mar. 16, 2021 
@@ -125,41 +133,32 @@ redirect_from:
   * _Podcast Do Lado Direito do Peito #2: Primavera Liberal no Brasil_, Oct. 30, 2019
     <a href="https://open.spotify.com/episode/2dKDy1aQ8aPFySZvJrhBw0?si=415458def3924024" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
     <a href="https://www1.folha.uol.com.br/podcasts/2019/10/podcast-discute-o-surgimento-de-uma-primavera-liberal-no-brasil.shtml" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
-  
+
+ * Gazeta do Povo
+   * _Ideias #135: Qual o problema com o protecionismo de Donald Trump_, Dec. 6, 2019.
+   <a href="https://podcasts.apple.com/br/podcast/ideias-135-qual-o-problema-com-o-protecionismo-de/id1233826664?i=1000458879468"></i></a>
+   <a href="https://www.gazetadopovo.com.br/ideias/ideias-135-protecionismo-donald-trump/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
+
 * Mises Brasil
   * _187 Podcast_, Sep. 4, 2015 
   <a href="https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
   * _62 Podcast_, Mar. 8, 2013 
   <a href="https://open.spotify.com/episode/6ThrI3DNnpTf8DkfpUh1t8?si=OfvlQBUxQ5mOxmKWHw-jrg" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
 
- * Gazeta: podcast
-
-* Joven Pan
-
 
 > ## Op-Eds
 
 * Exame
-  * [_Brasil em queda em rankings de competitividade: análise e soluções_](https://exame.com/colunistas/instituto-millenium/brasil-em-queda-em-rankings-de-competitividade-analise-e-solucoes/), Jul. 15, 2024.
+  * _Brasil em queda em rankings de competitividade: análise e soluções_, Jul. 15, 2024
+  <a href="https://exame.com/colunistas/instituto-millenium/brasil-em-queda-em-rankings-de-competitividade-analise-e-solucoes/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Folha de S. Paulo
-  * [_Livre iniciativa e a iniciativa privada_](https://www1.folha.uol.com.br/opiniao/2020/02/livre-iniciativa-e-a-iniciativa-privada.shtml), Feb. 02, 2020.
-  * [_Boas novas no BNDES_](https://www1.folha.uol.com.br/opiniao/2019/12/boas-novas-do-bndes.shtml), Dec. 25, 2019.
+  * _Livre iniciativa e a iniciativa privada_, Feb. 02, 2020
+  <a href="https://www1.folha.uol.com.br/opiniao/2020/02/livre-iniciativa-e-a-iniciativa-privada.shtml" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
+  * _Boas novas no BNDES_, Dec. 25, 2019
+  <a href="https://www1.folha.uol.com.br/opiniao/2019/12/boas-novas-do-bndes.shtml" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Estadão
-  * [_A importância da liberdade econômica para o desenvolvimento de um país_](https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-importancia-da-liberdade-economica-para-o-desenvolvimento-de-um-pais/?srsltid=AfmBOoo6KNqwiLAW-tWoPOs2hn5Lcatc2QyOqPIipPnyQOa-JPhSHjmH), Nov. 29, 2019.
+  * _A importância da liberdade econômica para o desenvolvimento de um país_, Nov. 29, 2019
+   <a href="https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-importancia-da-liberdade-economica-para-o-desenvolvimento-de-um-pais/?srsltid=AfmBOoo6KNqwiLAW-tWoPOs2hn5Lcatc2QyOqPIipPnyQOa-JPhSHjmH" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
