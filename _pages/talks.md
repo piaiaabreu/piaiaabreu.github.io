@@ -70,9 +70,10 @@ redirect_from:
   <a href="https://youtu.be/MDqCovEKdac?si=c_K4A5gNvFNmAxaY" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _VI Conferência de Escola Austríaca, Escolas Liberais: convergências e divergências_, Sep. 25, 2019
   <a href="https://youtu.be/OC3sg9GwMeM?si=HOGZ62N0lPS_aZ_2" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
-  * _IV Summer School, Estrutura do capital austríaca e a teoria da complexidade_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 8 2019 <a href="https://youtu.be/2Ol6jX2VBVI?si=AtoPaX3OgXgwj8bf" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _IV Summer School, Estrutura do capital austríaca e a teoria da complexidade_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 8 2019
+  <a href="https://youtu.be/2Ol6jX2VBVI?si=AtoPaX3OgXgwj8bf" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _II Summer School, Escola Austríaca: Origens e o Que é_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 6, 2017
-  <a href="https://youtu.be/FnOjB39eOcQ?si=_lebKhc_Vca5wNVT" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  <a href="https://youtu.be/FnOjB39eOcQ?si=_lebKhc_Vca5wNVT" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>. 
   * _II Summer School, Equilibrio de Mercado vs. Processo de Mercado_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 7, 2017
   <a href="https://youtu.be/u1d268PxTjU?si=7IXXBnUWkMsnApWh" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
@@ -86,7 +87,7 @@ redirect_from:
   * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit) Desindustrialização na Economia Brasileira_, Petrópolis, Rio de Janeiro, Brazil, 2016.
   * _Liberdade na Estrada_. Brasil: o país do futuro?, Pelotas, Rio Grande do Sul, Brazil, 2015.
   * _Liberdade na Estrada_. Brasil: o país do futuro?, Santa Maria, Rio Grande do Sul, Brazil, 2015.
-
+  * 
     
 > ## Interviews and Podcasts
 
