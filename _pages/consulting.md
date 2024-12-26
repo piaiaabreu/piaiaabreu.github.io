@@ -24,8 +24,7 @@ redirect_from:
 
 
 
-## [Instituto Millenium](https://institutomillenium.org.br/colunistas/mariana-piaia/)
-
+## Instituto Millenium <a href="https://www.institutomillenium.org.br" target="_blank" title="Instituto Millenium"><i class="fas fa-building"></i></a>
 * [Index of Bureaucracy](https://freedom.fiu.edu/index-of-bureaucracy/) (2023, 2024)
   * With Adam Smith Center for Economic Freedom, Florida International University.
 
