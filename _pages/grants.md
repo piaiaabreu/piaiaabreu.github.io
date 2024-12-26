@@ -25,6 +25,6 @@ redirect_from:
   
 * _Best Bachelor Student in Economics Award_. Rio Grande do Sul Economy Council, Universidade Federal de Santa Maria, Aug. 2011.
 
-* Bachelor Scholarship. FIPE Júnior: National Council for Scientific and Technological Development (CNPq), Universidade Federal de Santa Maria, Mar. 2009 - Feb. 2010.
+* _Bachelor Scholarship_. FIPE Júnior: National Council for Scientific and Technological Development (CNPq), Universidade Federal de Santa Maria, Mar. 2009 - Feb. 2010.
 
   
