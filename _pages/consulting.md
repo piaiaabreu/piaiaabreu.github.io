@@ -14,7 +14,7 @@ redirect_from:
 
 * Elections (2020, 2022, 2024)
 
-* Analyzing Voting Patterns of Federal Deputies (2022-2023)  /images/congress.png
+* Analyzing Voting Patterns of Federal Deputies (2022-2023) <a href="/images/congress.png" target="_blank" title="View Image"><i class="fas fa-image"></i></a>
   ** Using complex network analysis, I examined the voting behavior of federal deputies in Brazil, identifying patterns and similarities among legislators.
   ** This analysis provided actionable insights into voting blocs, legislative alignments, and shifts in political behavior over time, helping stakeholders understand and anticipate legislative trends effectively.
 
