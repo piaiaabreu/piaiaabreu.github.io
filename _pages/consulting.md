@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-## Analyis of Public Policy Impact
+## Public Policy Analyis
 
-*
+* Impact of regulatory changes and fiscal incentives on different sectors
 
 
 ## Politics Analysis
@@ -20,7 +20,7 @@ redirect_from:
 * Congress
 
 
-## [Research Associate, Instituto Millenium](https://institutomillenium.org.br/colunistas/mariana-piaia/)
+## [Instituto Millenium](https://institutomillenium.org.br/colunistas/mariana-piaia/)
 
 * [Index of Bureaucracy](https://freedom.fiu.edu/index-of-bureaucracy/) (2023, 2024)
   * With Adam Smith Center for Economic Freedom, Florida International University.
@@ -30,7 +30,7 @@ redirect_from:
 
 
 
-## [Research Manager, Students For Liberty](https://studentsforliberty.org/blog/staff/mariana-piaia/)
+## [Students For Liberty](https://studentsforliberty.org/blog/staff/mariana-piaia/)
 
 * Learn Liberty (YouTube Channel  <a href="https://www.youtube.com/learnliberty" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>)
   * At Learn Liberty, I work on crafting content that connects classical liberal principles and economic ideas to everyday life. Through clear explanations and engaging discussions, I aim to inspire meaningful dialogue about freedom, markets, and the institutions that shape our society.
