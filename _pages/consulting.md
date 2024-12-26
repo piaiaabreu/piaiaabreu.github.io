@@ -14,9 +14,22 @@ redirect_from:
 
 * Elections (2020, 2022, 2024)
 
-* Analyzing Voting Patterns of Federal Deputies (2022-2023)  profile_pic1.jpg
+
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+  <div style="flex: 1; max-width: 70%;">
+    <p>
+* Analyzing Voting Patterns of Federal Deputies (2022-2023)  
   ** Using complex network analysis, I examined the voting behavior of federal deputies in Brazil, identifying patterns and similarities among legislators.
   ** This analysis provided actionable insights into voting blocs, legislative alignments, and shifts in political behavior over time, helping stakeholders understand and anticipate legislative trends effectively.
+    </p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="/images/congress.png" alt="Congress" 
+      style="width: 250px; border-radius: 10px;">
+  </div>
+</div>
+
+
 
 ## [Instituto Millenium](https://institutomillenium.org.br/colunistas/mariana-piaia/)
 
