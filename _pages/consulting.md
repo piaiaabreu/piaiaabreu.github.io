@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Complex Networks for Policy and Business Strategy
+## * Complex Networks for Policy and Business Strategy
 
 * Electoral Dynamics (2020, 2022, 2024, 2026) <a href="/images/elections.jpg" target="_blank" title="View Image"><i class="fas fa-image"></i></a>
   * I specialize in applying complex network models to analyze voting patterns and political alignments. My work focuses on identifying geographical and demographic clusters with strong electoral compatibility, providing actionable insights for strategic planning.
