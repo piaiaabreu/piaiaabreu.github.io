@@ -24,13 +24,7 @@ redirect_from:
 
 
 
-## Instituto Millenium <a href="https://www.institutomillenium.org.br" target="_blank" title="Instituto Millenium"><i class="fas fa-building"></i></a>
-
-<a href="https://www.institutomillenium.org.br" target="_blank" title="Instituto Millenium">
-  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="12" cy="12" r="10"></circle> <!-- Replace this with the actual Millenium SVG content -->
-  </svg>
-</a>
+## Instituto Millenium <a href="https://institutomillenium.org.br/colunistas/mariana-piaia/" target="_blank" title="Instituto Millenium"><i class="fas fa-building"></i></a>
 
 * [Index of Bureaucracy](https://freedom.fiu.edu/index-of-bureaucracy/) (2023, 2024)
   * With Adam Smith Center for Economic Freedom, Florida International University.
@@ -40,7 +34,7 @@ redirect_from:
 
 
 
-## [Students For Liberty](https://studentsforliberty.org/blog/staff/mariana-piaia/)
+## Students For Liberty <a href="https://studentsforliberty.org/blog/staff/mariana-piaia/" target="_blank" title="Instituto Millenium"><i class="fas fa-building"></i></a>
 
 * Learn Liberty (YouTube Channel  <a href="https://www.youtube.com/learnliberty" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>)
   * At Learn Liberty, I work on crafting content that connects classical liberal principles and economic ideas to everyday life. Through clear explanations and engaging discussions, I aim to inspire meaningful dialogue about freedom, markets, and the institutions that shape our society.
