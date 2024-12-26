@@ -10,9 +10,14 @@ redirect_from:
 
 ## Actionable Insights Through Complex Networks
 
-* Impact of regulatory changes and fiscal incentives on different sectors
+* Electoral Dynamics (2020, 2022, 2024) <a href="/images/elections.jpg" target="_blank" title="View Image"><i class="fas fa-image"></i></a>
+  * I specialize in applying complex network models to analyze voting patterns and political alignments. My work focuses on identifying geographical and demographic clusters with strong electoral compatibility, providing actionable insights for strategic planning.
+  * By examining the relationship between candidate profiles and voter behavior, I help clients refine their outreach strategies, optimizing cost per vote, time, and messaging for greater efficiency in electoral campaigns.
 
-* Elections (2020, 2022, 2024)
+* Analyzing Regulatory Impacts and Sector Dynamics  <a href="/images/mip2015.png" target="_blank" title="View Image"><i class="fas fa-image"></i></a>
+  * I specialize in evaluating the potential effects of regulatory changes and fiscal incentives on various sectors, providing strategic insights to help clients navigate evolving policy landscapes.
+  * Using network theory, I analyze the interconnectedness within supply chains and broader economic systems, offering a comprehensive perspective on how shifts in regulation can cascade through industries.
+  *  This work helps clients anticipate challenges, identify opportunities, and make informed decisions in a complex and dynamic environment.
 
 * Analyzing Voting Patterns of Federal Deputies (2022-2023) <a href="/images/congress3.png" target="_blank" title="View Image"><i class="fas fa-image"></i></a>
   * Using complex network analysis, I examined the voting behavior of federal deputies in Brazil, identifying patterns and similarities among legislators.
