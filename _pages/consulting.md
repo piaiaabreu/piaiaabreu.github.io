@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-## Public Policy Analyis
+## Public Policy
 
 * Impact of regulatory changes and fiscal incentives on different sectors
 
 
-## Politics Analysis
+## Politics
 
 * Elections
 
