@@ -66,21 +66,21 @@ redirect_from:
 
 * Mises Brasil
   * _Webinar - Escola Austríaca e mainstream econômico_, July 8, 2020
-  <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _Webinar - Moeda, inflação e o futuro da economia_, Aug. 13, 2020
-  <a href="https://www.youtube.com/live/yIRxjJLL3a4?si=70j6xd5bgv6cw0aC" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://www.youtube.com/live/yIRxjJLL3a4?si=70j6xd5bgv6cw0aC" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _Webinar - Descomplicando o economês_, Sep. 10, 2020
-  <a href="https://www.youtube.com/live/xjoIzcGiTzA?si=6MDypzPjdwks8UVZ" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://www.youtube.com/live/xjoIzcGiTzA?si=6MDypzPjdwks8UVZ" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _VI Conferência de Escola Austríaca, Painel de Abertura_, Sep. 25, 2019
-  <a href="https://youtu.be/MDqCovEKdac?si=c_K4A5gNvFNmAxaY" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://youtu.be/MDqCovEKdac?si=c_K4A5gNvFNmAxaY" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _VI Conferência de Escola Austríaca, Escolas Liberais: convergências e divergências_, Sep. 25, 2019
-  <a href="https://youtu.be/OC3sg9GwMeM?si=HOGZ62N0lPS_aZ_2" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://youtu.be/OC3sg9GwMeM?si=HOGZ62N0lPS_aZ_2" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _IV Summer School, Estrutura do capital austríaca e a teoria da complexidade_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 8 2019
-  <a href="https://youtu.be/2Ol6jX2VBVI?si=AtoPaX3OgXgwj8bf" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://youtu.be/2Ol6jX2VBVI?si=AtoPaX3OgXgwj8bf" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _II Summer School, Escola Austríaca: Origens e o Que é_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 6, 2017
-  <a href="https://youtu.be/FnOjB39eOcQ?si=_lebKhc_Vca5wNVT" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>. 
+    <a href="https://youtu.be/FnOjB39eOcQ?si=_lebKhc_Vca5wNVT" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>. 
   * _II Summer School, Equilibrio de Mercado vs. Processo de Mercado_, Santo Antônio do Pinhal, São Paulo, Brazil, Feb. 7, 2017
-  <a href="https://youtu.be/u1d268PxTjU?si=7IXXBnUWkMsnApWh" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://youtu.be/u1d268PxTjU?si=7IXXBnUWkMsnApWh" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Instituto Legislativo Paulista (ILP)
   * _A importância do empreendedorismo_, Nov. 28, 2019
