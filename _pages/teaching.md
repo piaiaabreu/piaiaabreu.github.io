@@ -39,6 +39,11 @@ redirect_from:
 | Special Topics in Economics: Network Theory Applied to Economics | Economics | 2020/II |
 | Macroeconomics I                     | Economics             | 2022/I            |
 
+| Studies Group                        | Role             | Period             |
+| --------                             | ------           | ------------------ |
+| Cycles of Interventionism            | Coordenation     | 2019/I - 2022/I    |
+| Economic Rationality of Corruption   | Member           | 2019/I - 2021/I    |
+
 ### Instituto Mises Brasil - Graduate Program in Austrian Economics
 
 | Courses                              | Period        |
