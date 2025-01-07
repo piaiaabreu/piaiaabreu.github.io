@@ -56,7 +56,7 @@ redirect_from:
   * _Minicurso XVII Semana de Preparação Pedagógica - Teoria de Redes Aplicada à Economia_, Jan. 29-31, 2019.
 
 *  OMMA Business School Madrid
-  * Seminário - Complexidade da Estrutura Produtiva e Financeira_ Aug. 10, 2021
+  * _Seminário - Complexidade da Estrutura Produtiva e Financeira_, Aug. 10, 2021
     <a href="https://youtu.be/otrpWJ2GFZM?si=BZJM8B01LETugiOo" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
     <a href="https://omma.edu.es/seminario-sobre-economia-da-complexidade-com-o-prof-mariana-piaia/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
