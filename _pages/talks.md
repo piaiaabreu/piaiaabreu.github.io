@@ -57,12 +57,12 @@ redirect_from:
 
 *  OMMA Business School Madrid
   * _Seminário - Complexidade da Estrutura Produtiva e Financeira_ Aug. 10, 2021
-  <a href="https://youtu.be/otrpWJ2GFZM?si=BZJM8B01LETugiOo" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
-  <a href="https://omma.edu.es/seminario-sobre-economia-da-complexidade-com-o-prof-mariana-piaia/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
+    <a href="https://youtu.be/otrpWJ2GFZM?si=BZJM8B01LETugiOo" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
+    <a href="https://omma.edu.es/seminario-sobre-economia-da-complexidade-com-o-prof-mariana-piaia/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Universidade Federal do Paraná
   * _Semana Acadêmica 2020 - Redes complexas no mercado de capitais brasileiro_, Sep. 13, 2020
-  <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://www.youtube.com/live/sMzDso8iPuY?si=JSNBJn2mXFrqrLMw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Mises Brasil
   * _Webinar - Escola Austríaca e mainstream econômico_, July 8, 2020
@@ -84,7 +84,7 @@ redirect_from:
 
 * Instituto Legislativo Paulista (ILP)
   * _A importância do empreendedorismo_, Nov. 28, 2019
-  <a href="https://www.al.sp.gov.br/ilp/cursos-eventos/detalheAtividade.jsp?id=5585" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
+    <a href="https://www.al.sp.gov.br/ilp/cursos-eventos/detalheAtividade.jsp?id=5585" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Livres
   * _Webinar Associados - Quais as Escolas de Pensamento Econômico que defendem o liberalismo?_, May 21, 2019.
@@ -94,40 +94,40 @@ redirect_from:
 
 * Instituto Liberal do Nordeste
   * _IV Semana da Liberdade - Conjuntura Econômica_, May 28, 2016
-   <a href=" https://youtu.be/rxwvMzuUVVw?si=Qouv0MdUAjic1wog" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href=" https://youtu.be/rxwvMzuUVVw?si=Qouv0MdUAjic1wog" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
  
     
 > ## Interviews and Podcasts
 
 * Joven Pan News
   * _Linha de Frente_, Aug. 10, 2024
-  <a href="https://youtu.be/g3f2lVfE8OE?si=ON82-PYurDeGBI3w" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://youtu.be/g3f2lVfE8OE?si=ON82-PYurDeGBI3w" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _Linha de Frente_, Dec. 23, 2023
-  <a href="https://youtu.be/vCIm8MY9X2g?si=wRRMdDx2h6aIxpS9" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://youtu.be/vCIm8MY9X2g?si=wRRMdDx2h6aIxpS9" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
   * _Linha de Frente_, Dec. 2, 2023
-  <a href="https://youtu.be/-ZzPHT9LxdU?si=ycFq0wVHTJ6tntue" title="YouTube"><i class="fab fa-youtube"></i></a>.
+    <a href="https://youtu.be/-ZzPHT9LxdU?si=ycFq0wVHTJ6tntue" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * FlowNews
-  * _#82 - Governo que envia PEC que proíbe militares de ocuparem cargos políticos_, Aug. 30, 2023 
-  <a href="https://youtu.be/MDqCovEKdac?si=c_K4A5gNvFNmAxaY" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _#82 - Governo que envia PEC que proíbe militares de ocuparem cargos políticos_, Aug. 30, 2023
+    <a href="https://youtu.be/MDqCovEKdac?si=c_K4A5gNvFNmAxaY" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Livres Cast
-  * _A jornada Acadêmica no movimento liberal_, Aug. 2, 2022 
-  <a href="https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
-  <a href="https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _A jornada Acadêmica no movimento liberal_, Aug. 2, 2022
+    <a href="https://open.spotify.com/episode/119WeJC2IS48uER8wVSbrO?si=iZmCpenrSbeTmC2rflyLEw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
+    <a href="https://www.youtube.com/watch?v=Vi4ZeZ0j5sE&t=37s&pp=ygUNbWFyaWFuYSBwaWFpYQ%3D%3D" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Tapa da Mão Invisível
-  * _Episódio 125_, Mar. 16, 2021 
-  <a href="https://open.spotify.com/episode/75ZB7hbQ9lW8oFXH0jEpUK?si=jnJGC51MT-2prPZKn2YmgA" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
-  <a href="https://www.youtube.com/watch?v=40oyzQMb1Qg&t=391s" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _Episódio 125_, Mar. 16, 2021
+    <a href="https://open.spotify.com/episode/75ZB7hbQ9lW8oFXH0jEpUK?si=jnJGC51MT-2prPZKn2YmgA" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
+    <a href="https://www.youtube.com/watch?v=40oyzQMb1Qg&t=391s" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Podcast Fábio Ostermann
-  * _Ep. #13 - Participação Feminina no Movimento Liberal_, Oct. 30, 2020 
-  <a href="https://open.spotify.com/episode/3m2ZLAeeOMuILSWuhszoIb?si=cHxjAqDfSXOOJgbaJ-zpnw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
+  * _Ep. #13 - Participação Feminina no Movimento Liberal_, Oct. 30, 2020
+    <a href="https://open.spotify.com/episode/3m2ZLAeeOMuILSWuhszoIb?si=cHxjAqDfSXOOJgbaJ-zpnw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
 
 * MyNews
-  * _Treta do ICMS, a indústria que só encolhe e o coronavírus no Congresso_, Feb. 4, 2020 
-  <a href="https://www.youtube.com/watch?v=HlgwiRA-Fn8&t=49s" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
+  * _Treta do ICMS, a indústria que só encolhe e o coronavírus no Congresso_, Feb. 4, 2020
+    <a href="https://www.youtube.com/watch?v=HlgwiRA-Fn8&t=49s" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>.
 
 * Folha de S. Paulo
   * _Podcast Do Lado Direito do Peito #2: Primavera Liberal no Brasil_, Oct. 30, 2019
@@ -136,29 +136,29 @@ redirect_from:
 
  * Gazeta do Povo
    * _Ideias #135: Qual o problema com o protecionismo de Donald Trump_, Dec. 6, 2019
-   <a href="https://podcasts.apple.com/br/podcast/ideias-135-qual-o-problema-com-o-protecionismo-de/id1233826664?i=1000458879468" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a> 
-   <a href="https://www.gazetadopovo.com.br/ideias/ideias-135-protecionismo-donald-trump/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
+     <a href="https://podcasts.apple.com/br/podcast/ideias-135-qual-o-problema-com-o-protecionismo-de/id1233826664?i=1000458879468" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>
+     <a href="https://www.gazetadopovo.com.br/ideias/ideias-135-protecionismo-donald-trump/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Mises Brasil
-  * _187 Podcast_, Sep. 4, 2015 
-  <a href="https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
-  * _62 Podcast_, Mar. 8, 2013 
-  <a href="https://open.spotify.com/episode/6ThrI3DNnpTf8DkfpUh1t8?si=OfvlQBUxQ5mOxmKWHw-jrg" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
+  * _187 Podcast_, Sep. 4, 2015
+    <a href="https://open.spotify.com/episode/30Y4XasSDiXZe7T5vcc76p?si=ZynEbl0RQCq_zDRFJRsJZw" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
+  * _62 Podcast_, Mar. 8, 2013
+    <a href="https://open.spotify.com/episode/6ThrI3DNnpTf8DkfpUh1t8?si=OfvlQBUxQ5mOxmKWHw-jrg" target="_blank" title="Podcast"><i class="fas fa-podcast"></i></a>.
 
 
 > ## Op-Eds
 
 * Exame
   * _Brasil em queda em rankings de competitividade: análise e soluções_, Jul. 15, 2024
-  <a href="https://exame.com/colunistas/instituto-millenium/brasil-em-queda-em-rankings-de-competitividade-analise-e-solucoes/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
+    <a href="https://exame.com/colunistas/instituto-millenium/brasil-em-queda-em-rankings-de-competitividade-analise-e-solucoes/" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Folha de S. Paulo
   * _Livre iniciativa e a iniciativa privada_, Feb. 02, 2020
-  <a href="https://www1.folha.uol.com.br/opiniao/2020/02/livre-iniciativa-e-a-iniciativa-privada.shtml" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
+    <a href="https://www1.folha.uol.com.br/opiniao/2020/02/livre-iniciativa-e-a-iniciativa-privada.shtml" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
   * _Boas novas no BNDES_, Dec. 25, 2019
-  <a href="https://www1.folha.uol.com.br/opiniao/2019/12/boas-novas-do-bndes.shtml" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
+    <a href="https://www1.folha.uol.com.br/opiniao/2019/12/boas-novas-do-bndes.shtml" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
 
 * Estadão
   * _A importância da liberdade econômica para o desenvolvimento de um país_, Nov. 29, 2019
-   <a href="https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-importancia-da-liberdade-economica-para-o-desenvolvimento-de-um-pais/?srsltid=AfmBOoo6KNqwiLAW-tWoPOs2hn5Lcatc2QyOqPIipPnyQOa-JPhSHjmH" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
+    <a href="https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-importancia-da-liberdade-economica-para-o-desenvolvimento-de-um-pais/?srsltid=AfmBOoo6KNqwiLAW-tWoPOs2hn5Lcatc2QyOqPIipPnyQOa-JPhSHjmH" target="_blank" title="Newspaper Article"><i class="fas fa-newspaper"></i></a>.
   
