@@ -10,19 +10,19 @@ redirect_from:
 > ## Academic Talks
 
 * **[Association of Private Enterprise Education (APEE) 48th Meeting](https://apee.org/past-programs/)**, Apr. 7-9, 2024, Las Vegas, Nevada, United States.
-  * _Political Interference and Ownership Networks State-Owned and Mixed-Owned Enterprises in the Brazilian Stock Market_ [slides].
+  * _Political Interference and Ownership Networks State-Owned and Mixed-Owned Enterprises in the Brazilian Stock Market_.
 
 * **[VII Latin American Society for the History of Economic Thought (ALAHPE) Meeting](https://alahpe.org/wp-content/uploads/2021/01/Programa-ALAHPE-Curitiba.pdf)**, Nov. 20-22, 2019, Curitiba, Paraná, Brazil.
-  * _Estrutura do capital e complexidade: Escola Austríaca em evolução_ [slides].
+  * _Estrutura do capital e complexidade: Escola Austríaca em evolução_.
  
 * **[Research in Options (RiO) 2017, Instituto Nacional de Matemática Pura e Aplicada(IMPA)](https://impa.br/eventos-do-impa/eventos-2017/research-in-options-2017/)**, Nov. 28, 2017, Rio de Janeiro, Rio de Janeiro, Brazil.
     * _Structure of Control in Financial Networks: an Application to the Brazilian Stock Market_ [[abstract]](https://impa.br/wp-content/uploads/2017/11/RiO2017-CT_MPAbreu.pdf).
 
 * **[41st Annual Meeting of the Association for Mathematics Applied to Social and Economic Sciences (AMASES)](https://www.amases.org/41st-annual-meeting-of-the-italian-association-for-mathematics-applied-to-economic-and-social-sciences-amases/)**, Sep. 14-17, 2017, Cagliari, Sardenha, Italy.
-  * _Structure of Control in Financial Networks: An Application to the Brazilian Stock Market_ [slides].
+  * _Structure of Control in Financial Networks: An Application to the Brazilian Stock Market_.
 
 * **[Young Scholars Initiative (YSI) Europe Convention 2017 - Trento Festival of Economics (Institute for New Economic Thinking)](https://www.ineteconomics.org/events/trento-festival-of-economics)**, June 1-4, 2017, Trento, Trentino-Alto Ádige, Italy.
-  * _Brazilian Productive Structure: an analysis from complex networks_ [slides].
+  * _Brazilian Productive Structure: an analysis from complex networks_.
   
 * **[XVIII Encontro Nacional de Economia Política (ENEP), Sociedade Brasileira de Economia Política (SEP)](https://www.sep.org.br/01_sites/01/index.php/enep-2/enep-edicoes-anteriores/anais-dos-eneps)**, May 28-31, 2013, Belo Horizonte, Minas Gerais, Brazil.
   * _Ação Empreendedora no Pensamento Econômico: a Tradição Austríaca vs. Schumpeter_.
@@ -37,18 +37,18 @@ redirect_from:
 ## Other Talks
 
 * Students For Liberty
-  * _Simpósio Interdisciplinar Clube Farroupilha (SIF) - A Terceira Via é uma Opção?_,  Santa Maria, Rio Grande do Sul, Brazil, Nov. 9, 2024 [slides].
+  * _Simpósio Interdisciplinar Clube Farroupilha (SIF) - A Terceira Via é uma Opção?_,  Santa Maria, Rio Grande do Sul, Brazil, Nov. 9, 2024.
   * _Libertycon 2023 - Treinamento: Não Seja..._, Belo Horizonte, Minas Gerais, Brasil, Oct. 5 2023.
   * _Libertycon 2023 - Mesa de Economia_, Belo Horizonte, Minas Gerais, Brasil, Oct. 5 2023.
-  * _Simpósio Interdisciplinar Clube Farroupilha (SIF) - Entre o socialismo e o capitalismo: Ciclos intervencionistas-desintervencionistas_, Santa Maria, Rio Grande do Sul, Brazil, Nov. 8, 2019 [slides].
+  * _Simpósio Interdisciplinar Clube Farroupilha (SIF) - Entre o socialismo e o capitalismo: Ciclos intervencionistas-desintervencionistas_, Santa Maria, Rio Grande do Sul, Brazil, Nov. 8, 2019.
   * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit) - Ação Empreendedora: origens e diferentes abordagens dentro da Escola Austríaca_, Petrópolis, Rio de Janeiro, Brazil, 2016.
   * _Seminário de Verão Ordem Livre 2016 (w/ Atlas Network, Friedrich Naumann Stiftung für die Freiheit) - Desindustrialização na Economia Brasileira_, Petrópolis, Rio de Janeiro, Brazil, 2016.
   * _Liberdade na Estrada - Brasil: o país do futuro?_, Pelotas, Rio Grande do Sul, Brazil, 2015.
   * _Liberdade na Estrada - Brasil: o país do futuro?_, Santa Maria, Rio Grande do Sul, Brazil, 2015.
 
 * LOLA Brasil (Ladies of Liberty Alliance)
-  * _Workshop Online: Pensamento Econômico Liberal_, Aug. 6, 2023 [slides].
-  * _Introdução à Economia Liberal_, São Paulo, São Paulo, Brazil, Oct. 5, 2019 [slides].
+  * _Workshop Online: Pensamento Econômico Liberal_, Aug. 6, 2023.
+  * _Introdução à Economia Liberal_, São Paulo, São Paulo, Brazil, Oct. 5, 2019.
 
 * Centro Mackenzie de Liberdade Econômica
   * _V Fórum de Liberdade Econômica, Ciclos de Intervenção e Crise no Brasil_, Dec. 13, 2021
