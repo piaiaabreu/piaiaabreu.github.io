@@ -9,7 +9,7 @@ redirect_from:
 
 I am a researcher focused on understanding economics as a complex system. My work bridges theory and practice, using advanced methodologies such as network analysis to explore challenges in economic systems and policy-making.
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 30px;">
   <div style="flex: 1; max-width: 50%;">
     <p>
       Beyond traditional microfounded approaches, I investigate macroeconomics through the lens of complexity, emphasizing the dynamic interplay of agents, institutions, and networks in shaping economic outcomes.
