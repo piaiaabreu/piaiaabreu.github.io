@@ -23,15 +23,15 @@ redirect_from:
   * This analysis provided actionable insights into voting blocs, legislative alignments, and shifts in political behavior over time, helping stakeholders understand and anticipate legislative trends effectively.
 
 
-
 ## Instituto Millenium <a href="https://institutomillenium.org.br/colunistas/mariana-piaia/" target="_blank" title="Instituto Millenium"><i class="fas fa-building"></i></a>
 
-* [Index of Bureaucracy](https://freedom.fiu.edu/index-of-bureaucracy/) (2023, 2024)
+* Technical Report 01/2025: [Quanto custa um deputado? Estimando os custos de 14 novos deputados]([https://freedom.fiu.edu/index-of-bureaucracy/](https://institutomillenium.org.br/notas-tecnicas/quanto-custa-um-deputado-estimando-os-custos-de-14-novos-deputados/) (Feb. 2025)
+
+* [Country Risk Index](https://news.fiu.edu/2024/helping-businesses-navigate-latin-americas-complex-political-economic-and-social-risks-landscape) (2024, 2025)
   * With Adam Smith Center for Economic Freedom, Florida International University.
 
-* [Country Risk Index](https://news.fiu.edu/2024/helping-businesses-navigate-latin-americas-complex-political-economic-and-social-risks-landscape) (2024)
+* [Index of Bureaucracy](https://freedom.fiu.edu/index-of-bureaucracy/) (2023, 2024, 2025)
   * With Adam Smith Center for Economic Freedom, Florida International University.
-
 
 
 ## Students For Liberty <a href="https://studentsforliberty.org/blog/staff/mariana-piaia/" target="_blank" title="Instituto Millenium"><i class="fas fa-building"></i></a>
