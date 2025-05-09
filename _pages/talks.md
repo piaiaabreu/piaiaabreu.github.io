@@ -9,6 +9,9 @@ redirect_from:
 
 > ## Academic Talks
 
+* **[Association of Private Enterprise Education (APEE) 49th Meeting](https://apee.org/past-programs/)**, Apr. 6-8, 2025, Guatemala City, Guatemala, United State
+  * _Workflows and Roadblocks: Gender Differences in Career Mobility and Occupational Networks in Brazil_.
+
 * **[Association of Private Enterprise Education (APEE) 48th Meeting](https://apee.org/past-programs/)**, Apr. 7-9, 2024, Las Vegas, Nevada, United States.
   * _Political Interference and Ownership Networks State-Owned and Mixed-Owned Enterprises in the Brazilian Stock Market_.
 
