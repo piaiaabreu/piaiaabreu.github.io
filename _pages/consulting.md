@@ -26,12 +26,21 @@ redirect_from:
 ## Instituto Millenium <a href="https://institutomillenium.org.br/colunistas/mariana-piaia/" target="_blank" title="Instituto Millenium"><i class="fas fa-building"></i></a>
 
 * Technical Report 01/2025: [Quanto custa um deputado? Estimando os custos de 14 novos deputados](https://institutomillenium.org.br/notas-tecnicas/quanto-custa-um-deputado-estimando-os-custos-de-14-novos-deputados/) (Feb. 2025)
+  * Media:
+      *  [Aumento do número de deputados de 513 para 527 custaria R$ 46,2 milhões por ano](https://gauchazh.clicrbs.com.br/colunistas/rosane-de-oliveira/noticia/2025/02/aumento-do-numero-de-deputados-de-513-para-527-custaria-r-462-milhoes-por-ano-cm7meeb1c00f101dmcg4of5fs.html)
+      *  [Câmara vota projeto para aumentar número de deputados; acompanhe ao vivo](https://gauchazh.clicrbs.com.br/politica/noticia/2025/05/camara-vota-urgencia-de-projeto-para-aumentar-numero-de-deputados-acompanhe-ao-vivo-cmabkkf1z00bl015cfaojdr1g.html)
+      *  [Aumento do número de deputados como quer Hugo Motta custaria R$ 462 milhões por ano, mostra estudo](https://www.estadao.com.br/politica/aumento-do-numero-de-deputados-como-quer-hugo-motta-custaria-r-462-milhoes-por-ano-mostra-estudo/)
 
 * [Country Risk Index](https://news.fiu.edu/2024/helping-businesses-navigate-latin-americas-complex-political-economic-and-social-risks-landscape) (2024, 2025)
   * With Adam Smith Center for Economic Freedom, Florida International University.
+  * Media:
+    * [Risco-País do Brasil aumenta em 2024](https://exame.com/colunistas/instituto-millenium/risco-pais-do-brasil-aumenta-em-2024/)
+    * [Erosão da confiança no Judiciário brasileiro leva à maior piora do risco país na América Latina](https://www.gazetadopovo.com.br/economia/erosao-da-confianca-no-judiciario-brasileiro-contribui-para-a-maior-piora-do-risco-pais-na-america-latina/)
 
 * [Index of Bureaucracy](https://freedom.fiu.edu/index-of-bureaucracy/) (2023, 2024, 2025)
   * With Adam Smith Center for Economic Freedom, Florida International University.
+  * Media:
+    * [Brasil em queda em rankings de competitividade: análise e soluções](https://exame.com/colunistas/instituto-millenium/brasil-em-queda-em-rankings-de-competitividade-analise-e-solucoes/)
 
 
 ## Students For Liberty <a href="https://studentsforliberty.org/blog/staff/mariana-piaia/" target="_blank" title="Instituto Millenium"><i class="fas fa-building"></i></a>
