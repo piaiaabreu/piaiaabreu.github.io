@@ -21,5 +21,5 @@ I am a researcher focused on understanding economics as a complex system. My wor
   </div>
 </div>
 
-Currently, as __Director of Productivity at the Secretariat of Economic Development of the State of São Paulo__, I lead the design and implementation of policies to promote economic freedom, productivity, and entrepreneurship. My responsibilities include coordinating regulatory simplification, assessing regulatory impacts, fostering public-private dialogue, and strengthening the integration of municipalities into productivity-enhancing initiatives.
+Currently, I serve as __Director of Productivity at the Secretariat of Economic Development of the State of São Paulo__, where I work on shaping and putting into practice policies that advance economic freedom, boost productivity, and encourage entrepreneurship. My role involves overseeing efforts to simplify regulations, evaluating their impact, promoting dialogue between the public and private sectors, and helping municipalities adopt initiatives that improve the business environment.
 
