@@ -8,8 +8,14 @@ redirect_from:
 ---
 
 ## Public Service <a href="https://www.desenvolvimentoeconomico.sp.gov.br/" target="_blank" title="Instituto Millenium"><i class="fas fa-building"></i></a>
-* Director for Productivity Enhancement (May 2025 - currently)
 
+* Director for Productivity Enhancement, Secretariat of Economic Development, State of São Paulo (May 2025 - Present)
+  * [FACILITA SP] (https://www.facilitasp.sp.gov.br/): Program dedicated to improving the business environment by reducing regulatory complexity, accelerating permitting processes, and fostering municipal adherence to national standards of economic freedom.
+  * Regulatory Simplification: Designing and implementing regulatory roadmaps to strengthen institutional efficiency and promote entrepreneurship.
+  * Municipal Partnerships: Supporting municipalities in adopting business-friendly policies and improving local economic governance.
+  * Public-Private Coordination: Coordinating public-private dialogue and providing technical guidance to translate regulatory challenges into actionable solutions.
+
+ 
 ## Complex Networks for Policy and Business Strategy
 
 * Electoral Dynamics (2020, 2022, 2024, 2026) <a href="/images/elections.jpg" target="_blank" title="View Image"><i class="fas fa-image"></i></a>
