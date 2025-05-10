@@ -1,11 +1,13 @@
 ---
-title: "Consulting"
+title: "Consulting, Policy & Public Service"
 permalink:
 author_profile: true
 redirect_from: 
   - /consulting/
   - /consulting.html
 ---
+
+## Public Service
 
 
 ## Complex Networks for Policy and Business Strategy
