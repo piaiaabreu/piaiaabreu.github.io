@@ -47,10 +47,10 @@ redirect_from:
 
 ## Students For Liberty <a href="https://studentsforliberty.org/blog/staff/mariana-piaia/" target="_blank" title="Instituto Millenium"><i class="fas fa-building"></i></a>
 
-* Learn Liberty (YouTube Channel  <a href="https://www.youtube.com/learnliberty" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>) (Jan. 2021 - May 2025)
+* Learn Liberty - YouTube Channel  <a href="https://www.youtube.com/learnliberty" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a> (Jan. 2021 - May 2025)
   * At Learn Liberty, I work on crafting content that connects classical liberal principles and economic ideas to everyday life. Through clear explanations and engaging discussions, I aim to inspire meaningful dialogue about freedom, markets, and the institutions that shape our society.
   
-* The Invisible Lens (YouTube Channel  <a href="https://www.youtube.com/channel/UCwYitjvEl8hms8gFUFHp2Mw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>) (Jan. 2021 - May 2025)
+* The Invisible Lens - YouTube Channel  <a href="https://www.youtube.com/channel/UCwYitjvEl8hms8gFUFHp2Mw" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a> (Jan. 2021 - May 2025)
   * The Invisible Lens is where I explore the intersection of pop culture and deeper societal dynamics. By analyzing movies, series, cartoons, and music, I uncover how these stories reflect and influence our understanding of economics, philosophy, and the world around us..
 
 {% comment %}
